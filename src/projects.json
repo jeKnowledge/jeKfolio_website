@@ -1,0 +1,78 @@
+{
+    "websites":[ 
+    { 
+        "id":1,
+        "title":"Ponto Vermelho",
+        "image":"images/shift_cover.png",
+        "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
+        "link":"https://ponto-vermelho.jeknowledge.com/",
+        "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
+        "autor":"Diogo Ribeiro,João Bernardo",
+        "data":"jan 2021",
+        "tecs":"HTML/CSS,JavaScript, Django"
+        },
+        { 
+        "id":2,
+        "title":"ColorADD Social",
+        "image":"images/shift_cover.png",
+        "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
+        "link":"https://www.coloraddsocial.org/",
+        "cliente":"ColorADD",
+        "autor":"Diogo Ribeiro,Bernardo Prior",
+        "data":"fev 2021",
+        "tecs":"HTML/CSS,JavaScript, Django"
+    }
+    ],
+
+    "software":[ 
+        { 
+            "id":1,
+            "title":"Software 1",
+            "image":"images/shift_cover.png",
+            "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
+            "link":"https://ponto-vermelho.jeknowledge.com/",
+            "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
+            "autor":"Diogo Ribeiro,João Bernardo",
+            "data":"jan 2021",
+            "tecs":"HTML/CSS,JavaScript, Django"
+            },
+            { 
+            "id":2,
+            "title":"Software 2",
+            "image": "images/shift_cover.png",
+            "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
+            "link":"https://www.coloraddsocial.org/",
+            "cliente":"ColorADD",
+            "autor":"Diogo Ribeiro,Bernardo Prior",
+            "data":"fev 2021",
+            "tecs":"HTML/CSS,JavaScript, Django"
+        }
+        ],
+
+        "design":[ 
+            { 
+                "id":1,
+                "title":"Design 1",
+                "image":"images/shift_cover.png",
+                "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
+                "link":"https://ponto-vermelho.jeknowledge.com/",
+                "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
+                "autor":"Diogo Ribeiro,João Bernardo",
+                "data":"jan 2021",
+                "tecs":"HTML/CSS,JavaScript, Django"
+                },
+                { 
+                "id":2,
+                "title":"Design 2",
+                "image": "images/shift_cover.png",
+                "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
+                "link":"https://www.coloraddsocial.org/",
+                "cliente":"ColorADD",
+                "autor":"Diogo Ribeiro,Bernardo Prior",
+                "data":"fev 2021",
+                "tecs":"HTML/CSS,JavaScript, Django"
+            }
+            ]
+
+    
+}
