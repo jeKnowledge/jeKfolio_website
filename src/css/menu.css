@@ -1,0 +1,61 @@
+ .area h2:hover{
+    color:#1690C3;
+    cursor: pointer;
+  }
+  .projects_area{
+    display: grid;
+    grid-template-columns: 20vw 20vw 20vw;
+    grid-gap: 0 2vw;
+  }
+  
+  .project_img img{
+    width:100%;
+    object-fit: cover;
+    transition: all .3s ease-in-out;
+    }
+
+  .project_img{
+      background: rgba(124, 204, 237, 0.9);
+      z-index: 1;
+      transition: all .3s ease-in-out;
+  }
+  .project{
+    transition: all .3s ease-in-out;
+  }
+  .project:hover img{
+    opacity:0.1;
+    transition: all .3s ease-in-out;
+    }
+  .project:hover {
+      color:#7ccced;
+      cursor: pointer;
+      transition: all .3s ease-in-out;
+    }
+    .project_text{
+      margin-top: 4%;
+    }
+    .project_text>h3,h5{
+      margin-bottom: 0;
+      margin-top:1%;
+      font-size: 1.5rem;
+    }
+
+
+
+
+
+
+  
+  .area h2{
+    color:#ffffff;
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+  
+  
+  
+  
+  
+  
+  
+  

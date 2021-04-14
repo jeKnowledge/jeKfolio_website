@@ -3,7 +3,7 @@
     { 
         "id":1,
         "title":"Ponto Vermelho",
-        "image":"images/shift_cover.png",
+        "cover":"https://i.imgur.com/iS5FISP.png",
         "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
         "link":"https://ponto-vermelho.jeknowledge.com/",
         "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
@@ -14,7 +14,7 @@
         { 
         "id":2,
         "title":"ColorADD Social",
-        "image":"images/shift_cover.png",
+        "cover":"https://i.imgur.com/iS5FISP.png",
         "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
         "link":"https://www.coloraddsocial.org/",
         "cliente":"ColorADD",
@@ -26,9 +26,9 @@
 
     "software":[ 
         { 
-            "id":1,
+            "id":3,
             "title":"Software 1",
-            "image":"images/shift_cover.png",
+            "cover":"https://i.imgur.com/iS5FISP.png",
             "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
             "link":"https://ponto-vermelho.jeknowledge.com/",
             "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
@@ -37,9 +37,9 @@
             "tecs":"HTML/CSS,JavaScript, Django"
             },
             { 
-            "id":2,
+            "id":4,
             "title":"Software 2",
-            "image": "images/shift_cover.png",
+            "cover": "https://i.imgur.com/iS5FISP.png",
             "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
             "link":"https://www.coloraddsocial.org/",
             "cliente":"ColorADD",
@@ -51,9 +51,9 @@
 
         "design":[ 
             { 
-                "id":1,
+                "id":5,
                 "title":"Design 1",
-                "image":"images/shift_cover.png",
+                "cover":"https://i.imgur.com/iS5FISP.png",
                 "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
                 "link":"https://ponto-vermelho.jeknowledge.com/",
                 "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
@@ -62,9 +62,9 @@
                 "tecs":"HTML/CSS,JavaScript, Django"
                 },
                 { 
-                "id":2,
+                "id":6,
                 "title":"Design 2",
-                "image": "images/shift_cover.png",
+                "cover": "https://i.imgur.com/iS5FISP.png",
                 "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
                 "link":"https://www.coloraddsocial.org/",
                 "cliente":"ColorADD",

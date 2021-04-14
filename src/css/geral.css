@@ -1,23 +1,23 @@
 @font-face {
   font-family: Suisse-Int-Bold;
-  src: url('../src/fonts/SuisseIntl-Bold.otf');
+  src: url('../fonts/SuisseIntl-Bold.otf');
 }
 @font-face {
   font-family: Suisse-Int-Medium;
-  src: url('../src/fonts/SuisseIntl-Medium.otf');
+  src: url('../fonts/SuisseIntl-Medium.otf');
 }
 @font-face {
   font-family: Suisse-Int-SemiBold;
-  src: url('../src/fonts/SuisseIntl-SemiBold.otf');
+  src: url('../fonts/SuisseIntl-SemiBold.otf');
 }
 @font-face {
   font-family: Suisse-Int-Thin;
-  src: url('../src/fonts/SuisseIntl-Thin.otf');
+  src: url('../fonts/SuisseIntl-Thin.otf');
 }
 
 body {
   margin: 0;
-  padding:5%;
+  padding:2% 4%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: black;

@@ -1,21 +1,34 @@
-import Websites from './Websites.jsx';
-import Software from './Software.jsx';
-import Design from './Design.jsx';
+import React from 'react';
+import Websites from './Websites.js';
+import Software from './Software.js';
+import Design from './Design.js';
 
-const Menu = () => {
+class Menu extends React.Component{
+
+    constructor(props){
+        super(props);
+        this.state={
+            show:false 
+        }
+    }
+    render(){
     return ( 
         <div className="menu">
 
             <div className="area">
-            <h2>Websites</h2>
-            <Websites></Websites>
-
-
+            <h2 onClick={ () => {
+                this.setState({ show:!this.state.show})
+                }}> Websites</h2>
+                {this.state.show ?          // if this 
+                    <Websites></Websites> // do this
+                    : null                //else null
+                }
             </div>
 
             <div className="area">
-            <h2>Software</h2>
-            <Software></Software>
+            <h2 onClick={()=>{this.setState({show:!this.state.show})}}> Software</h2>
+            { this.state.show ? <Software></Software> : null }
+                
             </div>
 
             <div className="area">
@@ -29,5 +42,6 @@ const Menu = () => {
 
         </div>
     )}
+}
  
 export default Menu ;

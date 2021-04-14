@@ -1,4 +1,5 @@
 import Home from './Home.js';
+import Project from './Project.js';
 
 
 function App() {
@@ -7,6 +8,10 @@ function App() {
 
       <div className="main">
         <Home/>
+      </div>
+
+      <div className="project_page">
+        <Project/>
       </div>
 
     </div>
