@@ -1,20 +1,29 @@
 import Home from './Home.js';
-import Project from './Project.js';
-
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Redirect,
+} from "react-router-dom";
 
 function App() {
   return (
+  
+<Router>
     <div className="App">
 
       <div className="main">
-        <Home/>
+
+        <Switch>
+          <Route path="/">
+            <Home/>
+          </Route>
+        </Switch>
       </div>
 
-      <div className="project_page">
-        <Project/>
-      </div>
 
     </div>
+  </Router>
   );
 }
 

@@ -21,7 +21,18 @@
         "autor":"Diogo Ribeiro,Bernardo Prior",
         "data":"fev 2021",
         "tecs":"HTML/CSS,JavaScript, Django"
-    }
+        },
+        { 
+        "id":3,
+        "title":"ColorADD Social",
+        "cover":"https://i.imgur.com/iS5FISP.png",
+        "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
+        "link":"https://www.coloraddsocial.org/",
+        "cliente":"ColorADD",
+        "autor":"Diogo Ribeiro,Bernardo Prior",
+        "data":"fev 2021",
+        "tecs":"HTML/CSS,JavaScript, Django"
+        }
     ],
 
     "software":[ 
