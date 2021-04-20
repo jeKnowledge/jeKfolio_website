@@ -1,24 +1,17 @@
 .home{
-    height: 90vh;
+  height:auto;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: 60%;
   }
-  .home h1{
-    text-align: left;
-    color:#7CCCED;
+
+.home h1{
+    color:var(--lightbue);
     font-size: 6rem;
-    padding-top: 40%;
   }
-  .header{
-    height: 4vh;
-    display: flex;
-    justify-content: space-between;
-  }
-  .header img{
-    height:100%;
-  }
-  #jek_logo{
-    cursor: pointer;
-    align-self: flex-end;
-  }
+
+ 
   
   
   

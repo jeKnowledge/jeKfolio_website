@@ -1,16 +1,18 @@
 import React from 'react';
-import Area from './Area.js';
+import ProjectList from './ProjectList.js';
+
 
 class Menu extends React.Component{
     render(){
     return ( 
         <div className="menu">
 
-            <Area field="websites" title="Websites"></Area> 
+            <ProjectList field="websites" title="Websites"></ProjectList> 
              
-            <Area field="software" title="Software"></Area> 
+            <ProjectList field="software" title="Software"></ProjectList> 
 
-            <Area field="design" title="Design"></Area>
+            <ProjectList field="design" title="Design"></ProjectList>
+       
         
         </div>
     )}

@@ -1,4 +1,9 @@
 import Home from './Home.js';
+import Header from './Header';
+import Footer from './Footer';
+import ProjectDetails from './ProjectDetails.js';
+import './css/geral.css';
+
 import {
   BrowserRouter as Router,
   Route,
@@ -8,22 +13,31 @@ import {
 
 function App() {
   return (
-  
-<Router>
+    <div>
+
+    <Header></Header>
     <div className="App">
+      <main>
+        <Router>
+          <Switch>
 
-      <div className="main">
+            <Route exact path="/">
+              <Home />
+            </Route>
 
-        <Switch>
-          <Route path="/">
-            <Home/>
-          </Route>
-        </Switch>
-      </div>
+            <Route path="/projects/:field/:id">
+              <ProjectDetails />
+            </Route>
 
+          </Switch>
+        </Router>
+      </main>
+    </div>
+
+    <Footer></Footer>
 
     </div>
-  </Router>
+
   );
 }
 

@@ -5,25 +5,18 @@ import './css/projeto.css';
 
 
 import Menu from './Menu'
-import Navbar from './Navbar'
 
 const Home = () => {
 
     return(
-        <div className="Home">
-            <Navbar></Navbar>
+        <div className="home">
             
-        <div className="home">   
-            <h1>Hi! We're jeKnowledge!</h1>
-        </div> 
+            <h1>Hi! We're jeKnowledge, this is our work!</h1>
+            <h1>We do</h1>
        
             <Menu></Menu>
             
         </div>
-
-
-
-
 
     );
   

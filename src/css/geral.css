@@ -14,19 +14,22 @@
   font-family: Suisse-Int-Thin;
   src: url('../fonts/SuisseIntl-Thin.otf');
 }
-
+:root{
+  --lightbue: #7CCCED;
+  --blue: #1690C3;
+}
 body {
-  margin: 0;
-  padding:2% 4%;
+  width:100vw;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: black;
   color: white;
-}
-
-code {
   font-family: 'Suisse-Int-Medium';
   font-size: 24px;
+}
+
+main {
+  margin: 2% 4%;
 }
 
 h1,h2{
@@ -35,6 +38,42 @@ h1,h2{
 h3,h4{
   font-family: 'Suisse-Int-SemiBold';
 }
-h5{
+h5, p{
   font-family: 'Suisse-Int-Thin';
+}
+/*** HEADER ***/
+
+.header{
+  padding: 2% 4%;
+  height: 4vh;
+  display: flex;
+  justify-content: space-between;
+}
+.header img{
+  height:100%;
+}
+#jek_logo{
+  cursor: pointer;
+}
+
+.header a{
+  text-align: right;
+}
+
+/*** FOOTER ***/
+
+.footer{
+  padding: 2% 4%;
+  height:auto;
+  background-color: var(--blue);
+  display: flex;
+  justify-content: space-between;
+
+}
+.footer p{
+  font-size: 1.1rem;
+}
+
+.contacts{
+  text-align: right;
 }

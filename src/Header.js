@@ -1,6 +1,6 @@
 import icon_jek from './img/icon.svg';
 import logo_jekfolio from './img/jekfolio.svg';
-const Navbar = () => {
+const Header = () => {
     
     return(
     <header className="header">
@@ -9,4 +9,4 @@ const Navbar = () => {
     </header>
 );
 }
-export default Navbar;
+export default Header;

@@ -37,7 +37,7 @@
 
     "software":[ 
         { 
-            "id":3,
+            "id":4,
             "title":"Software 1",
             "cover":"https://i.imgur.com/iS5FISP.png",
             "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
@@ -48,7 +48,7 @@
             "tecs":"HTML/CSS,JavaScript, Django"
             },
             { 
-            "id":4,
+            "id":5,
             "title":"Software 2",
             "cover": "https://i.imgur.com/iS5FISP.png",
             "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
@@ -62,7 +62,7 @@
 
         "design":[ 
             { 
-                "id":5,
+                "id":6,
                 "title":"Design 1",
                 "cover":"https://i.imgur.com/iS5FISP.png",
                 "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
@@ -73,7 +73,7 @@
                 "tecs":"HTML/CSS,JavaScript, Django"
                 },
                 { 
-                "id":6,
+                "id":7,
                 "title":"Design 2",
                 "cover": "https://i.imgur.com/iS5FISP.png",
                 "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,

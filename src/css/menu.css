@@ -1,10 +1,12 @@
  .area h2:hover{
-    color:#1690C3;
+    color:var(--blue);
     cursor: pointer;
+    transition: all .3s ease-in-out;
+
   }
   .projects_area{
     display: grid;
-    grid-template-columns: 20vw 20vw 20vw;
+    grid-template-columns: 30% 30% 30%;
     grid-gap: 0 2vw;
   }
   
@@ -19,31 +21,34 @@
       z-index: 1;
       transition: all .3s ease-in-out;
   }
-  .project{
-    transition: all .3s ease-in-out;
-  }
+
   .project:hover img{
     opacity:0.1;
     transition: all .3s ease-in-out;
     }
   .project:hover {
-      color:#7ccced;
+      color:var(--lightbue);
       cursor: pointer;
       transition: all .3s ease-in-out;
     }
     .project_text{
       margin-top: 4%;
+
     }
-    .project_text>h3,h5{
+    .project_text> h3,h5{
       margin-bottom: 0;
       margin-top:1%;
       font-size: 1.5rem;
+      text-decoration: none;
+
     }
   
   .area h2{
-    color:#ffffff;
+    color:white;
     text-transform: uppercase;
     font-size: 3rem;
+    transition: all .3s ease-in-out;
+
   }
   
   
