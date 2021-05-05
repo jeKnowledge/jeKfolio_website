@@ -3,14 +3,20 @@
   display: flex;
   flex-direction: column;
   text-align: left;
-  width: 60%;
-  }
+  
+  } 
 
 .home h1{
-    color:var(--lightbue);
-    font-size: 6rem;
+    color:var(--blue);
+    font-size: 5rem;
   }
 
+  @media screen and (max-width: 600px){
+ 
+    #intro h1{
+      font-size: 2.5rem;
+    }
+  }
  
   
   

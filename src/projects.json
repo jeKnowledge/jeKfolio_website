@@ -3,87 +3,179 @@
     { 
         "id":1,
         "title":"Ponto Vermelho",
-        "cover":"https://i.imgur.com/iS5FISP.png",
-        "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
+        "cover":"https://i.imgur.com/56doRd3.png",
+        "img":["https://i.imgur.com/ZMwP3UJ.png","https://i.imgur.com/LRfeHZm.png"],
+        "descricao":" 'Ponto Vermelho' is a store from Braga Delegation of the Portuguese Red Cross that receives, sorts, and distributes first and second-hand goods. The distribution is done free of charge to people and families with greater socioeconomic difficulties in the municipality of Braga and through sales at symbolic prices to the general public. We created this platform in order to help the store to carry out these transactions. Customers, whether they are members of a particular household or representatives of an institution, register on the platform and after approval can place their orders, such as adult and children's clothing, footwear, baby items, toys, books, home textiles, etc.",
         "link":"https://ponto-vermelho.jeknowledge.com/",
         "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
-        "autor":"Diogo Ribeiro,João Bernardo",
-        "data":"jan 2021",
+        "ux":["Diogo Ribeiro", "https://www.linkedin.com/in/jbtsousa/"],
+        "frontend":["Diogo Ribeiro", "https://www.linkedin.com/in/jbtsousa/"],
+        "backend":["João Domingues", " "],
+        "data":"january 2021",
         "tecs":"HTML/CSS,JavaScript, Django"
         },
         { 
         "id":2,
         "title":"ColorADD Social",
         "cover":"https://i.imgur.com/iS5FISP.png",
-        "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
+        "img":["https://i.imgur.com/1LzE8W6.png","https://i.imgur.com/05tEPWi.jpg"],
+        "descricao": "ColorADD.Social is a non-profit association dedicated to promoting the social integration of people with difficulty in color identification, in particular those with color blindness, through the adoption of the ColorADD code. This website serves as support for ColorADD.Social's mission, which aims to alert the community in general to the cause of color-blindness, with a particular focus on the school community, by training, supporting and socially monitoring educational and inclusion projects. To this end, we have implemented simulations so that all users can interact and experience the different color-blind visions, along with detailed information regarding the awareness actions of this organization." ,
         "link":"https://www.coloraddsocial.org/",
         "cliente":"ColorADD",
-        "autor":"Diogo Ribeiro,Bernardo Prior",
-        "data":"fev 2021",
-        "tecs":"HTML/CSS,JavaScript, Django"
+        "ux":["Diogo Ribeiro", "https://www.linkedin.com/in/jbtsousa/"],
+        "frontend":["Diogo Ribeiro", "https://www.linkedin.com/in/jbtsousa/"],
+        "backend":["Bernardo Prior", "https://www.linkedin.com/in/bernardo-prior/"],
+        "data":"february 2021",
+        "tecs":"HTML/CSS, JavaScript, Django"
         },
         { 
         "id":3,
-        "title":"ColorADD Social",
-        "cover":"https://i.imgur.com/iS5FISP.png",
-        "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
-        "link":"https://www.coloraddsocial.org/",
-        "cliente":"ColorADD",
-        "autor":"Diogo Ribeiro,Bernardo Prior",
-        "data":"fev 2021",
-        "tecs":"HTML/CSS,JavaScript, Django"
+        "title":"TEDx Universidade de Coimbra",
+        "cover":"https://i.imgur.com/es6R9E8.png",
+        "img":["https://i.imgur.com/2Katoix.png","https://i.imgur.com/9gxpf86.jpg"],
+        "descricao":"TED is a non-profit organization dedicated to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost every topic - from science to business to global issues - in over 100 languages. Meanwhile, independently organized TEDx events help on sharing ideas in communities around the world. Inspired by tradition, but also by innovation, a group of students from different faculties at the University of Coimbra decided to create a TEDx event. jeKnowledge was invited to develop their website, for the third year in a row. In this website you can find all the information about the event, such as the organizing team, speakers, program and partners. And still receives the live broadcast of the event on the homepage." ,
+        "link":"https://www.tedxuniversidadedecoimbra.pt/",
+        "cliente":"TEDx Universidade de Coimbra (Event)",
+        "ux":["Diogo Ribeiro", "https://www.linkedin.com/in/jbtsousa/"],
+        "frontend":["Diogo Ribeiro", "https://www.linkedin.com/in/jbtsousa/"],
+        "backend":"N/A",
+        "data":"april 2021",
+        "tecs":"HTML/CSS, JavaScript"
+        },
+        { 
+        "id":4,
+        "title":"Porto Blockchain Conference 2020",
+        "cover":"https://i.imgur.com/mEcWtQl.png",
+        "img":["https://i.imgur.com/huAt1zo.png","http://i.imgur.com/1CXfl5Oh.gif"],
+        "descricao":"Porto.BC will be the biggest conference dedicated to blockchain and cryptocurrencies .to be broadcasted from Portugal to any place in the world in 2021. During two full days, we will create the perfect environment for learning and discussing several subjects around this technology with amazing speakers. The blockchain technologies are having a significant impact on our industries, but how? In this event we will have incredible people to share their thoughts with us. Among them are relevant engineers, developers, economists, politicians, lawyers and more! Our exceptional keynote speakers will provide you with tools to make yourself and your organization ready for the future, so you can learn about new technologies and their impact." ,
+        "link":"https://portobc.com",
+        "cliente":"jeKnowledge",
+        "ux":["Alexandre Pinho", "https://www.linkedin.com/in/jbtsousa/"],
+        "frontend":["Diogo Sobreira", " "],
+        "backend":"N/A",
+        "data":"january 2021",
+        "tecs":"HTML/CSS, JavaScript"
+        },
+        {
+        "id":5,
+        "title":"DotWorks 2021",
+        "cover":"https://i.imgur.com/AgnoWW0.png",
+        "img":["https://i.imgur.com/MOcrv1l.png","https://i.imgur.com/EWMrcLF.png"],
+        "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
+        "link":"http://dotworks2021.jeknowledge.com/",
+        "cliente":"jeKnowledge",
+        "ux":"Inês Galvão, Maria Raposo",
+        "frontend":["Bárbara Vieira","https://www.linkedin.com/in/jbtsousa/"],
+        "backend":["João Domingues"," "],
+        "data":"april 2021",
+        "tecs":"HTML/CSS, JavaScript, Django"
         }
+        ,
+        {
+        "id":6,
+        "title":"Shift APPens 2021",
+        "cover":"https://i.imgur.com/2jQ3tMX.png",
+        "img":["https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/O6ToivS.png"],
+        "descricao":"Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+        "link":"https://shiftappens.com",
+        "cliente":"jeKnowledge, NEI",
+        "ux":"Angela Laspriella, Margarida Souto",
+        "frontend":"Joana Sousa",
+        "backend":"N/A",
+        "data":"april 2021",
+        "tecs":"HTML/CSS, JavaScript"
+        },
+        {
+        "id":7,
+        "title":"jeKash",
+        "cover":"https://i.imgur.com/lT8ZJDh.png",
+        "img":["https://i.imgur.com/iKGVyHu.png","https://i.imgur.com/HrNHfwI.jpg"],
+        "descricao":"We created this internal platform in order to simplify the payment of debts between members of jeKnowledge. jeKash lets users create debts, check what they owe and even go through the total amount of what each Department owes.",
+        "link":"https://jekash.jeknowledge.com/",
+        "cliente":"jeKnowledge",
+        "ux":"Bárbara Vieira, Margarida Souto",
+        "frontend":"Joana Sousa",
+        "backend":"N/A",
+        "data":"april 2021",
+        "tecs":"HTML/CSS, JavaScript"
+        }
+            ,
+        {
+        "id":8,
+        "title":"Podium",
+        "cover":"https://i.imgur.com/AgnoWW0.png",
+        "img":["https://i.imgur.com/MOcrv1l.png","https://i.imgur.com/EWMrcLF.png"],
+        "descricao":"This project began as an idea of one member of jeKnowledge (Filipe Lopes), that wanted to create a website / app that could manage sports competitions and results. A team was gathered to help with producing a working MVP.",
+        "link":" ",
+        "cliente":"jeKnowledge",
+        "ux":["Carla Gomes", "https://www.linkedin.com/in/jbtsousa/"],
+        "frontend":" ",
+        "backend":"N/A",
+        "data":"april 2021",
+        "tecs":"React, Django Node"
+        }
+
     ],
 
     "software":[ 
         { 
-            "id":4,
-            "title":"Software 1",
-            "cover":"https://i.imgur.com/iS5FISP.png",
-            "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
-            "link":"https://ponto-vermelho.jeknowledge.com/",
-            "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
-            "autor":"Diogo Ribeiro,João Bernardo",
-            "data":"jan 2021",
-            "tecs":"HTML/CSS,JavaScript, Django"
-            },
-            { 
-            "id":5,
-            "title":"Software 2",
-            "cover": "https://i.imgur.com/iS5FISP.png",
-            "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
-            "link":"https://www.coloraddsocial.org/",
-            "cliente":"ColorADD",
-            "autor":"Diogo Ribeiro,Bernardo Prior",
-            "data":"fev 2021",
-            "tecs":"HTML/CSS,JavaScript, Django"
+        "id":9,
+        "title":"Mentora Health",
+        "cover":"https://i.imgur.com/iS5FISP.png",
+        "img1":["", ""],
+        "descricao":"Project in which we were responsible for the rebranding and where we are currently working together with Mentora Health's team in the development of an app that helps the lives of Oncology patients",
+        "link":"https://ponto-vermelho.jeknowledge.com/",
+        "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
+        "autor":"Diogo Ribeiro,João Bernardo",
+        "data":"jan 2021",
+        "tecs":"HTML/CSS,JavaScript, Django"
         }
+
         ],
 
-        "design":[ 
-            { 
-                "id":6,
-                "title":"Design 1",
-                "cover":"https://i.imgur.com/iS5FISP.png",
-                "desc":"O Ponto Vermelho é uma loja da Delegação de Braga da Cruz Vermelha Portuguesa que recebe, faz a triagem, e distribui bens em primeira e segunda-mão. A distribuição é feita de forma gratuita às pessoas e famílias com maior dificuldade socioeconómica do concelho de Braga e através de vendas a preços simbólicos ao público em geral.",
-                "link":"https://ponto-vermelho.jeknowledge.com/",
-                "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
-                "autor":"Diogo Ribeiro,João Bernardo",
-                "data":"jan 2021",
-                "tecs":"HTML/CSS,JavaScript, Django"
-                },
-                { 
-                "id":7,
-                "title":"Design 2",
-                "cover": "https://i.imgur.com/iS5FISP.png",
-                "desc":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
-                "link":"https://www.coloraddsocial.org/",
-                "cliente":"ColorADD",
-                "autor":"Diogo Ribeiro,Bernardo Prior",
-                "data":"fev 2021",
-                "tecs":"HTML/CSS,JavaScript, Django"
-            }
-            ]
+    "design":[ 
+        { 
+            "id":10,
+            "title":"DotWorks 2021",
+            "cover":"https://i.imgur.com/AgnoWW0.png",
+            "img":["https://i.imgur.com/qX02LhW.png","https://i.imgur.com/dKXlYIx.png", "https://i.imgur.com/H3Kj6mb.jpg", "https://i.imgur.com/O2gH6bX.jpg"],
+            "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
+            "link":"https://www.instagram.com/dotworks21/",
+            "cliente":"jeKnowledge",
+            "design":"Inês Galvão, Maria Raposo",
+            "data":"april 2021",
+            "tecs":"Figma, Adobe Illustrator, Photoshop, After Effects, InDesign"
+        },
+        { 
+        "id":11,
+        "title":"jeK Academy 2020",
+        "cover": "https://i.imgur.com/o59NNhm.png",
+        "img":["https://i.imgur.com/d6R4mwx.jpg","https://i.imgur.com/qczmP0d.png","https://i.imgur.com/qCrlHu2.png", "https://i.imgur.com/qCrlHu2.png"],
+        "descricao":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
+        "link":"https://www.instagram.com/jeknowledgeacademy/",
+        "cliente":"jeKnowledge",
+        "design":"Alexandre Pinho",
+        "data":"jul 2020",
+        "tecs":" "
+        },
+        { 
+        "id":12,
+        "title":"Porto Blockchain Conference 2020",
+        "cover": "https://i.imgur.com/mEcWtQl.png",
+        "img":["https://i.imgur.com/yLldJRG.png","https://i.imgur.com/tItTPxf.png","https://i.imgur.com/huAt1zo.png", "https://i.imgur.com/huAt1zo.png"],
+        "descricao":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
+        "link":"https://www.instagram.com/jeknowledgeacademy/",
+        "cliente":"jeKnowledge",
+        "design":"Alexandre Pinho",
+        "data":"jul 2020",
+        "tecs":" "
+        }
+
+    ],
+    "hardware":[ 
+              
+        
+    ]
 
     
 }
