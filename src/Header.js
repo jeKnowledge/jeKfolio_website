@@ -6,7 +6,7 @@ const Header = () => {
     
     return(
     <header className="header">
-        <Link to="/">
+    <Link to="/">
     <img src={logo_jekfolio} alt="logo" /> 
     </Link>
     <a  href='https://jeknowledge.pt' target="_blank"><img src={icon_jek} id="jek_logo"  alt="logo jeK"/></a>

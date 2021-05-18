@@ -78,7 +78,7 @@ color: var(--lightblue);
     .projects_area{
       display: grid;
       grid-template-columns: 45% 45%;
-      grid-gap: 0 4vw;
+      grid-gap: 2vh 5vw;
       overflow-x: auto;
     }
     .project_img img{

@@ -1,3 +1,41 @@
+/*** RESET ***/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1.5;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+
+
+
 ::-webkit-scrollbar {
   display: none;
 }
@@ -67,6 +105,8 @@ a{
 
 .header a{
   text-align: right;
+  display:inline-block
+
 }
 
 /*** FOOTER ***/
@@ -78,12 +118,57 @@ a{
   background-color: var(--blue);
   display: flex;
   justify-content: space-between;
+  align-items: center;
+
 
 }
 .footer p{
   font-size: 1.1rem;
 }
+.footer-middle{
+  display: flex;
+  align-items: center;
+}
+.footer-middle #jek_logo{
+  margin: 0 1vw;
+}
+.footer-middle a{
+  display:inline-block
+}
+.footer-middle #jek_logo{
+  width:3vw;
+} 
 
 .contacts{
   text-align: right;
+}
+@media screen and (max-width: 600px){
+  .header{
+    padding: 4% 4%;
+    height: 4vh;
+  }
+
+  .footer{
+    display: block;
+    padding: 7vh 0;
+  }
+  .footer .footer-adress, .footer .contacts{
+    text-align: center;
+  }
+  .footer-middle{
+    width: 100%;
+    justify-content: center;
+    margin: 4vh 0 ;
+
+  }
+  .footer-middle .social {
+    width: 5vw;
+  }
+  .footer-middle #jek_logo{
+    width:10vw;
+    margin: 0 5vw;
+
+  } 
+
+
 }

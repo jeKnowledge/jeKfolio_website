@@ -2,6 +2,9 @@
     color:white;
     width: auto;
 }
+.project-info h1{
+    padding-bottom: 2%;
+}
 .project-info h1:hover{
     text-decoration: underline;
 
@@ -26,10 +29,9 @@
 .person:hover{
     cursor: pointer;
     text-decoration: underline;
-
 }
 
-.project-about span{
+.project-about b{
     font-family: Suisse-Int-SemiBold;
 }
 .project-gallery{
@@ -73,5 +75,25 @@
     object-fit: scale-down;
     background-color: white;
     color: black;
+}
+
+@media screen and (max-width: 600px){
+    .project-info{
+        margin: 6vh 0;
+    }
+    
+    .project-about{
+        margin:5vh 0;
+    }
+    .project-text{
+        display: block;
+    }
+    .project-desc, .project-about{
+        width:90%;
+        font-size: 0.8em;
+    }
+    .project-gallery>div img , .project-gallery img{
+        height:20vh;
+    }
 }
 

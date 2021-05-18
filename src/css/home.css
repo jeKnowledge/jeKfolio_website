@@ -3,9 +3,15 @@
   display: flex;
   flex-direction: column;
   text-align: left;
-  
   } 
+#intro{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-bottom: 5%;
+  height: 85vh;
 
+}
 .home h1{
     color:var(--blue);
     font-size: 5rem;

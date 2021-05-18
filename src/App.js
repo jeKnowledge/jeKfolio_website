@@ -6,6 +6,7 @@ import ProjectDetails from './ProjectDetails.js';
 
 import './css/geral.css';
 
+
 import {
   BrowserRouter as Router,
   Route,

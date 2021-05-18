@@ -4,8 +4,6 @@ import './css/menu.css';
 import './css/projeto.css';
 import ProjectList from './ProjectList.js';
 
-
-
 const Home = () => {
 
     return(
