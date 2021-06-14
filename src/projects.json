@@ -2,122 +2,116 @@
     "websites":[ 
     { 
         "id":1,
-        "title":"Ponto Vermelho",
-        "cover":"https://i.imgur.com/TQEzr4l.png",
-        "img":["https://i.imgur.com/gmaJepA.png","https://i.imgur.com/NkWebhF.png"],
-        "descricao":" 'Ponto Vermelho' is a store from Braga Delegation of the Portuguese Red Cross that receives, sorts, and distributes first and second-hand goods. The distribution is done free of charge to people and families with greater socioeconomic difficulties in the municipality of Braga and through sales at symbolic prices to the general public. We created this platform in order to help the store to carry out these transactions. Customers, whether they are members of a particular household or representatives of an institution, register on the platform and after approval can place their orders, such as adult and children's clothing, footwear, baby items, toys, books, home textiles, etc.",
-        "link":"https://ponto-vermelho.jeknowledge.com/",
-        "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
-        "ux":["https://www.linkedin.com/in/dbgfribeiro/","Diogo Ribeiro" ],
-        "frontend":["https://www.linkedin.com/in/dbgfribeiro/","Diogo Ribeiro"],
-        "backend":[" ","João Domingues"],
-        "data":"january 2021",
-        "tecs":"HTML/CSS,JavaScript, Django"
-        },
-        { 
-        "id":2,
-        "title":"ColorADD Social",
-        "cover":"https://i.imgur.com/gHgDizV.png",
-        "img":["https://i.imgur.com/Gp3tY4M.png","https://i.imgur.com/8E1U8iM.png"],
-        "descricao": "ColorADD.Social is a non-profit association dedicated to promoting the social integration of people with difficulty in color identification, in particular those with color blindness, through the adoption of the ColorADD code. This website serves as support for ColorADD.Social's mission, which aims to alert the community in general to the cause of color-blindness, with a particular focus on the school community, by training, supporting and socially monitoring educational and inclusion projects. To this end, we have implemented simulations so that all users can interact and experience the different color-blind visions, along with detailed information regarding the awareness actions of this organization." ,
-        "link":"https://www.coloraddsocial.org/",
-        "cliente":"ColorADD",
-        "ux":["https://www.linkedin.com/in/dbgfribeiro/","Diogo Ribeiro" ],
-        "frontend":["https://www.linkedin.com/in/dbgfribeiro/","Diogo Ribeiro"],
-        "backend":["https://www.linkedin.com/in/bernardo-prior/","Bernardo Prior"],
-        "data":"february 2021",
-        "tecs":"HTML/CSS, JavaScript, Django"
-        },
-        { 
-        "id":3,
-        "title":"TEDx Universidade de Coimbra",
-        "cover":"https://i.imgur.com/u8hG7Y9.png",
-        "img":["https://i.imgur.com/1kyH4x8.png","https://i.imgur.com/4qH1ocT.png"],
-        "descricao":"TED is a non-profit organization dedicated to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost every topic - from science to business to global issues - in over 100 languages. Meanwhile, independently organized TEDx events help on sharing ideas in communities around the world. Inspired by tradition, but also by innovation, a group of students from different faculties at the University of Coimbra decided to create a TEDx event. jeKnowledge was invited to develop their website, for the third year in a row. In this website you can find all the information about the event, such as the organizing team, speakers, program and partners. And still receives the live broadcast of the event on the homepage." ,
-        "link":"https://www.tedxuniversidadedecoimbra.pt/",
-        "cliente":"TEDx Universidade de Coimbra (Event)",
-        "ux":["https://www.linkedin.com/in/dbgfribeiro/","Diogo Ribeiro"],
-        "frontend":["https://www.linkedin.com/in/dbgfribeiro/","Diogo Ribeiro"],
-        "backend":"N/A",
-        "data":"april 2021",
-        "tecs":"HTML/CSS, JavaScript"
-        },
-        { 
-        "id":4,
-        "title":"Porto Blockchain Conference 2020",
-        "cover":"https://i.imgur.com/mEcWtQl.png",
-        "img":["https://i.imgur.com/huAt1zo.png","http://i.imgur.com/1CXfl5Oh.gif"],
-        "descricao":"Porto.BC will be the biggest conference dedicated to blockchain and cryptocurrencies .to be broadcasted from Portugal to any place in the world in 2021. During two full days, we will create the perfect environment for learning and discussing several subjects around this technology with amazing speakers. The blockchain technologies are having a significant impact on our industries, but how? In this event we will have incredible people to share their thoughts with us. Among them are relevant engineers, developers, economists, politicians, lawyers and more! Our exceptional keynote speakers will provide you with tools to make yourself and your organization ready for the future, so you can learn about new technologies and their impact." ,
-        "link":"https://portobc.com",
-        "cliente":"jeKnowledge",
-        "ux":["https://www.behance.net/alexandrepinho","Alexandre Pinho"],
-        "frontend":["https://www.linkedin.com/in/diogosobreira/ ","Diogo Sobreira"],
-        "backend":" ",
-        "data":"january 2021",
-        "tecs":"HTML/CSS, JavaScript"
-        },
-        {
-        "id":5,
         "title":"DotWorks 2021",
-        "cover":"https://i.imgur.com/wyy626L.png",
+        "cover":"https://i.imgur.com/yy4kea6.png",
         "img":["https://i.imgur.com/ChQg3MX.png","https://i.imgur.com/bT8axav.png"],
         "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
         "link":"http://dotworks2021.jeknowledge.com/",
         "cliente":"jeKnowledge",
-        "ux":["https://www.linkedin.com/in/in%C3%AAs-galv%C3%A3o-474a27205/","Inês Galvão","https://www.linkedin.com/in/maria-raposo-2457401ba/","Maria Raposo"],
-        "frontend":["https://www.linkedin.com/in/barbaranspv/","Bárbara Vieira"],
-        "backend":["João Domingues"," "],
+        "by":["Inês Galvão",", ","Maria Raposo",", ", "Bárbara Vieira",", ", "João Domingues"],
+        "data":"may 2021",
+        "tecs":"HTML/CSS, JavaScript, Django"
+        },
+        { 
+        "id":2,
+        "title":"TEDx Universidade de Coimbra",
+        "cover":"https://i.imgur.com/3C6zPZb.png",
+        "img":["https://i.imgur.com/1kyH4x8.png","https://i.imgur.com/4qH1ocT.png"],
+        "descricao":"TED is a non-profit organization dedicated to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost every topic - from science to business to global issues - in over 100 languages. Meanwhile, independently organized TEDx events help on sharing ideas in communities around the world. Inspired by tradition, but also by innovation, a group of students from different faculties at the University of Coimbra decided to create a TEDx event. jeKnowledge was invited to develop their website, for the third year in a row. In this website you can find all the information about the event, such as the organizing team, speakers, program and partners. And still receives the live broadcast of the event on the homepage." ,
+        "link":"https://www.tedxuniversidadedecoimbra.pt/",
+        "cliente":"TEDx Universidade de Coimbra (Event)",
+        "by":["Diogo Ribeiro"],
         "data":"april 2021",
+        "tecs":"HTML/CSS, JavaScript"
+        },
+        { 
+        "id":3,
+        "title":"Shift APPens 2021",
+        "cover":"https://i.imgur.com/xemOp1S.png",
+        "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png"],
+        "descricao":"Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+        "link":"https://shiftappens.com",
+        "cliente":"jeKnowledge, NEI",
+        "by":["Angela Laspriella",", ","Margarida Souto",", ","Francisca Laureano",", ", "Joana Sousa" ],
+        "data":"april 2021",
+        "tecs":"HTML/CSS, JavaScript, Figma"
+        },
+        { 
+        "id":4,
+        "title":"jeKash",
+        "cover":"https://i.imgur.com/l8ImUx8.png",
+        "img":["https://i.imgur.com/iKGVyHu.png","https://i.imgur.com/HrNHfwI.jpg"],
+        "descricao":"We created this internal platform in order to simplify the payment of debts between members of jeKnowledge. jeKash lets users create debts, check what they owe and even go through the total amount of what each Department owes.",
+        "link":"https://jekash.jeknowledge.com/",
+        "cliente":"jeKnowledge",
+        "by":["Bárbara Vieira",", ", "Margarida Souto","Eduardo Nunes",", ","Francisco Silva",", ","Gonçalo Correia",", ","Guilherme Gaspar",", ","Luís Silva"],
+        "data":"april 2021",
+        "tecs":"HTML/CSS, JavaScript"
+        },
+        {
+        "id":5,
+        "title":"ColorADD Social",
+        "cover":"https://i.imgur.com/PUZSnW0.png",
+        "img":["https://i.imgur.com/Gp3tY4M.png","https://i.imgur.com/8E1U8iM.png"],
+        "descricao": "ColorADD.Social is a non-profit association dedicated to promoting the social integration of people with difficulty in color identification, in particular those with color blindness, through the adoption of the ColorADD code. This website serves as support for ColorADD.Social's mission, which aims to alert the community in general to the cause of color-blindness, with a particular focus on the school community, by training, supporting and socially monitoring educational and inclusion projects. To this end, we have implemented simulations so that all users can interact and experience the different color-blind visions, along with detailed information regarding the awareness actions of this organization." ,
+        "link":"https://www.coloraddsocial.org/",
+        "cliente":"ColorADD",
+        "by":["Diogo Ribeiro",", ","Bernardo Prior"],
+        "data":"february 2021",
         "tecs":"HTML/CSS, JavaScript, Django"
         }
         ,
         {
         "id":6,
-        "title":"Shift APPens 2021",
-        "cover":"https://i.imgur.com/2jQ3tMX.png",
-        "img":["https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/O6ToivS.png"],
-        "descricao":"Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
-        "link":"https://shiftappens.com",
-        "cliente":"jeKnowledge, NEI",
-        "ux":["https://www.linkedin.com/in/angela-laspriella/","Angela Laspriella","https://www.linkedin.com/in/margarida-souto-684a041ba/","Margarida Souto"," ","André Santos (NEI)" ],
-        "frontend":["https://www.linkedin.com/in/jbtsousa/","Joana Sousa"],
-        "backend": "N/A",
-        "data":"april 2021",
+        "title":"Porto Blockchain Conference 2021",
+        "cover":"https://i.imgur.com/6OwwQ1N.png",
+        "img":["https://i.imgur.com/huAt1zo.png","https://i.imgur.com/VvXU0VW.png"],
+        "descricao":"Porto.BC will be the biggest conference dedicated to blockchain and cryptocurrencies .to be broadcasted from Portugal to any place in the world in 2021. During two full days, we will create the perfect environment for learning and discussing several subjects around this technology with amazing speakers. The blockchain technologies are having a significant impact on our industries, but how? In this event we will have incredible people to share their thoughts with us. Among them are relevant engineers, developers, economists, politicians, lawyers and more! Our exceptional keynote speakers will provide you with tools to make yourself and your organization ready for the future, so you can learn about new technologies and their impact." ,
+        "link":"https://portobc.com",
+        "cliente":"jeKnowledge",
+        "by":["Alexandre Pinho",", ","Diogo Sobreira"],
+        "data":"january 2021",
         "tecs":"HTML/CSS, JavaScript"
         },
         {
         "id":7,
-        "title":"jeKash",
-        "cover":"https://i.imgur.com/lT8ZJDh.png",
-        "img":["https://i.imgur.com/iKGVyHu.png","https://i.imgur.com/HrNHfwI.jpg"],
-        "descricao":"We created this internal platform in order to simplify the payment of debts between members of jeKnowledge. jeKash lets users create debts, check what they owe and even go through the total amount of what each Department owes.",
-        "link":"https://jekash.jeknowledge.com/",
-        "cliente":"jeKnowledge",
-        "ux":["https://www.linkedin.com/in/barbaranspv/","Bárbara Vieira","https://www.linkedin.com/in/margarida-souto-684a041ba/","Margarida Souto"],
-        "frontend":[" "," "],
-        "backend":[" "," "],
-        "data":"april 2021",
-        "tecs":"HTML/CSS, JavaScript"
-        }
-            ,
+        "title":"Ponto Vermelho",
+        "cover":"https://i.imgur.com/AMPEvDi.png",
+        "img":["https://i.imgur.com/gmaJepA.png","https://i.imgur.com/NkWebhF.png"],
+        "descricao":" 'Ponto Vermelho' is a store from Braga Delegation of the Portuguese Red Cross that receives, sorts, and distributes first and second-hand goods. The distribution is done free of charge to people and families with greater socioeconomic difficulties in the municipality of Braga and through sales at symbolic prices to the general public. We created this platform in order to help the store to carry out these transactions. Customers, whether they are members of a particular household or representatives of an institution, register on the platform and after approval can place their orders, such as adult and children's clothing, footwear, baby items, toys, books, home textiles, etc.",
+        "link":"https://ponto-vermelho.jeknowledge.com/",
+        "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
+        "by":["Diogo Ribeiro",", ", "João Domingues" ],
+        "data":"january 2021",
+        "tecs":"HTML/CSS,JavaScript, Django"
+        },
         {
         "id":8,
         "title":"Podium",
-        "cover":"https://i.imgur.com/AgnoWW0.png",
-        "img":["https://i.imgur.com/MOcrv1l.png","https://i.imgur.com/EWMrcLF.png"],
+        "cover":"https://i.imgur.com/JAhULLH.png",
+        "img":["https://i.imgur.com/hKjcGHZ.png","https://i.imgur.com/4rgaL3o.png"],
         "descricao":"This project began as an idea of one member of jeKnowledge (Filipe Lopes), that wanted to create a website / app that could manage sports competitions and results. A team was gathered to help with producing a working MVP.",
         "link":" ",
         "cliente":"jeKnowledge",
-        "ux":["https://www.linkedin.com/in/carla-gomes-6b92161a3/","Carla Gomes"],
-        "frontend":" ",
-        "backend":" ",
-        "data":"april 2021",
+        "by":["Carla Gomes",", ", "Filipe Lopes",", ", "Miguel Galvão",", ", "Francisco Silva",", ", "Luís Silva"],
+        "data":"june 2020",
         "tecs":"React, Django Node"
         }
     ],
 
     "software":[ 
-       
+        {
+            "id":8,
+            "title":"Mentora Health",
+            "cover":"https://i.imgur.com/5ShiRNG.jpg",
+            "img":["https://i.imgur.com/5ShiRNG.jpg","https://i.imgur.com/x5cC2BW.png"],
+            "descricao":"Project in which we were responsible for the rebranding and where we are currently working together with Mentora Health's team in the development of an app that helps the lives of Oncology patients",
+            "link":"http://www.mentorahealth.com/",
+            "cliente":"Mentora Health",
+            "by":["Luís Silva",", ", "Angela Laspriella",", ", "João Marcelimo",", ", "Miguel Galvão"],
+            "data":"november 2020",
+            "tecs":"Firebase, Flutter, Figma, Adobe Illustrator"
+            }
 
         ],
 
@@ -125,44 +119,54 @@
         { 
             "id":10,
             "title":"DotWorks 2021",
-            "cover":"https://i.imgur.com/wyy626L.png",
+            "cover":"https://i.imgur.com/yy4kea6.png",
             "img":["https://i.imgur.com/xT80WEY.png","https://i.imgur.com/hctyTuR.png", "https://i.imgur.com/zplf49S.png", "https://i.imgur.com/BynmuYx.png"],
             "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
             "link":"https://www.instagram.com/dotworks21/",
             "cliente":"jeKnowledge",
-            "design":["https://www.linkedin.com/in/in%C3%AAs-galv%C3%A3o-474a27205/","Inês Galvão","https://www.linkedin.com/in/maria-raposo-2457401ba/","Maria Raposo"],
-            "data":"april 2021",
+            "by":["Inês Galvão",", ","Maria Raposo"],
+            "data":"may 2021",
             "tecs":"Figma, Adobe Illustrator, Photoshop, After Effects, InDesign"
         },
         { 
         "id":11,
+        "title":"Shift APPens 2021",
+        "cover":"https://i.imgur.com/xemOp1S.png",
+        "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/FeUYw8Z.png","https://i.imgur.com/9iMyY3l.png"],
+        "descricao":"Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+        "link":"https://www.instagram.com/shiftappens/",
+        "cliente":"jeKnowledge, NEI",
+        "by":["Angela Laspriella",", ","Margarida Souto",", ","Francisca Laureano",", ","André Santos (NEI)",", "],
+        "data":"april 2021",
+        "tecs":"HTML/CSS, JavaScript, Figma"
+        
+        },
+        { 
+        "id":12,
+        "title":"Porto Blockchain Conference 2021",
+        "cover": "https://i.imgur.com/6OwwQ1N.png",
+        "img":["https://i.imgur.com/yLldJRG.png","https://i.imgur.com/VvXU0VW.png","https://i.imgur.com/tItTPxf.png", "https://i.imgur.com/huAt1zo.png"],
+        "descricao":"Porto.BC will be the biggest conference dedicated to blockchain and cryptocurrencies .to be broadcasted from Portugal to any place in the world in 2021. During two full days, we will create the perfect environment for learning and discussing several subjects around this technology with amazing speakers. The blockchain technologies are having a significant impact on our industries, but how? In this event we will have incredible people to share their thoughts with us. Among them are relevant engineers, developers, economists, politicians, lawyers and more! Our exceptional keynote speakers will provide you with tools to make yourself and your organization ready for the future, so you can learn about new technologies and their impact." ,
+        "link":"https://www.behance.net/gallery/112153635/PortoBC-Brand-Identity-Design",
+        "cliente":"jeKnowledge",
+        "by":["Alexandre Pinho"],
+        "data":"january 2021",
+        "tecs":"Photoshop, Adobe After Effects, Adobe Illustrator"
+        },
+        { 
+        "id":13,
         "title":"jeK Academy 2020",
         "cover": "https://i.imgur.com/o59NNhm.png",
         "img":["https://i.imgur.com/d6R4mwx.jpg","https://i.imgur.com/qczmP0d.png","https://i.imgur.com/qCrlHu2.png", "https://i.imgur.com/qCrlHu2.png"],
         "descricao":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
         "link":"https://www.instagram.com/jeknowledgeacademy/",
         "cliente":"jeKnowledge",
-        "design":["https://www.behance.net/alexandrepinho","Alexandre Pinho"],
-        "data":"jul 2020",
-        "tecs":" "
-        },
-        { 
-        "id":12,
-        "title":"Porto Blockchain Conference 2020",
-        "cover": "https://i.imgur.com/mEcWtQl.png",
-        "img":["https://i.imgur.com/yLldJRG.png","https://i.imgur.com/tItTPxf.png","https://i.imgur.com/huAt1zo.png", "https://i.imgur.com/huAt1zo.png"],
-        "descricao":"A ColorADD.Social é uma associação sem fins lucrativos, que se dedica a promover a integração social de pessoas com dificuldade na identificação de cores, em particular as portadoras de daltonismo, mediante a adoção do código ColorADD." ,
-        "link":"https://www.instagram.com/jeknowledgeacademy/",
-        "cliente":"jeKnowledge",
-        "design":["https://www.behance.net/alexandrepinho","Alexandre Pinho"],
-        "data":"jul 2020",
-        "tecs":" "
-        }
-
-    ],
-    "hardware":[ 
-              
+        "by":["Alexandre Pinho"],
+        "data":"july 2020",
+        "tecs":"Adobe Illustrator"
         
+            }
+
     ]
 
     

@@ -72,7 +72,7 @@ body {
 }
 
 main {
-  margin: 2% 4%;
+  padding: 2% 4%;
 }
 
 h1,h2{
@@ -92,7 +92,7 @@ a{
 
 .header{
   padding: 2% 4%;
-  height: 4vh;
+  height: 5vh;
   display: flex;
   justify-content: space-between;
 }
@@ -101,6 +101,10 @@ a{
 }
 #jek_logo{
   cursor: pointer;
+  float:right;
+}
+#jekfolio_logo{
+  float: left;
 }
 
 .header a{
@@ -145,7 +149,7 @@ a{
 @media screen and (max-width: 600px){
   .header{
     padding: 4% 4%;
-    height: 4vh;
+    height: 3vh;
   }
 
   .footer{

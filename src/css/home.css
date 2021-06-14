@@ -1,26 +1,30 @@
 .home{
-  height:auto;
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-  } 
-#intro{
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  padding-bottom: 5%;
-  height: 85vh;
+  height: auto;
+} 
 
-}
 .home h1{
     color:var(--blue);
-    font-size: 5rem;
+    font-size: 4rem; 
+  }
+  #intro{
+    position: relative;
+    height: 95vh;
+
+  }
+#seta{
+    width:12vw;
+    position: absolute;
+    bottom:-20%;
+    right:34%;
   }
 
   @media screen and (max-width: 600px){
  
     #intro h1{
       font-size: 2.5rem;
+    }
+    #seta{
+      display:none;
     }
   }
  

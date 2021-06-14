@@ -1,45 +1,38 @@
- #intro{
-   height:90vh;
- }
- 
  #subtitulo{
 color: var(--lightblue);
+ }
+ .area{
+   margin: 3% 0;
  }
 
  .area h2:hover{
     color:var(--blue);
     cursor: pointer;
     transition: all .3s ease-in-out;
-
   }
+
   .projects_area{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25% 25%;
-    grid-gap: 0 3vw;
-    overflow-x: auto;
+    display: flex;
+    overflow-x:auto;
+    column-gap: 10px;
   }
- 
-  .project_img{
-    transition: all .3s ease-in-out;
-    border-radius: 0;
-    transition: all .3s ease-in-out;
-    margin-bottom: 0;
+  .project_text{
+    max-width:20vw;
 
-}
-
-  .project_img img{
-    width:100%;
-    height: 25vh;
+  }
+   .project_img img{
+    width:20vw;
+    height: 20vh;
     object-fit: cover;
     transition: all .3s ease-in-out;
     border-radius: 0;
     vertical-align: middle;
-    }
+    } 
 
-.project:hover .project_img{
+.project:hover .project_img {
      background: rgba(124, 204, 237, 0.9); 
      transition: all .3s ease-in-out;
- 
+
 }
 
   .project:hover img{
@@ -61,7 +54,6 @@ color: var(--lightblue);
       margin-top:1%;
       font-size: 1.5rem;
       text-decoration: none;
-
     }
   
   .area h2{
@@ -81,8 +73,12 @@ color: var(--lightblue);
       grid-gap: 2vh 5vw;
       overflow-x: auto;
     }
-    .project_img img{
-      height: 10vh;
+    .project img{
+      width:40vw;
+      height: 15vh;
+    }
+    .project_text{
+      max-width: 40vw;
     }
     .project_text> h3,h5{
       font-size: 1rem;

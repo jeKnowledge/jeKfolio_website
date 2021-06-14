@@ -6,7 +6,6 @@ import ProjectDetails from './ProjectDetails.js';
 
 import './css/geral.css';
 
-
 import {
   BrowserRouter as Router,
   Route,
@@ -20,29 +19,25 @@ function App() {
     <Router>
     <ScrollToTop />
     <div>
-    <Route>
-      <Header></Header>
-    </Route>
-
-    <main>
-    <Switch>
-
-      <Route exact path="/">
-        <Home />
+      <Route>
+        <Header></Header>
       </Route>
 
-      <Route path="/projects/:field/:id">
-        <ProjectDetails />
-      </Route>
+      <main>
+      <Switch>
 
-     
+        <Route exact path="/">
+          <Home />
+        </Route>
 
-      
+        <Route path="/projects/:field/:id">
+          <ProjectDetails />
+        </Route>
 
-    </Switch>
-    </main>
+      </Switch>
+      </main>
 
-    <Footer></Footer>
+      <Footer></Footer>
 
     </div>
     </Router>

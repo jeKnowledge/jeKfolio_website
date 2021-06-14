@@ -95,5 +95,8 @@
     .project-gallery>div img , .project-gallery img{
         height:20vh;
     }
+    .project-info button{
+        font-size: 0.5em;
+    }
 }
 
