@@ -60,7 +60,6 @@ blockquote, q {
   --blue: #1690C3;
 }
 body {
-  width:100vw;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: black;
@@ -124,7 +123,6 @@ a{
   justify-content: space-between;
   align-items: center;
 
-
 }
 .footer p{
   font-size: 1.1rem;
@@ -136,8 +134,8 @@ a{
 .footer-middle #jek_logo{
   margin: 0 1vw;
 }
-.footer-middle a{
-  display:inline-block
+.footer-middle a:nth-child(1), .footer-middle a:nth-child(3) {
+  padding-top: 10px;
 }
 .footer-middle #jek_logo{
   width:3vw;

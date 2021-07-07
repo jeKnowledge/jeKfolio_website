@@ -1,7 +1,7 @@
 
 import icon_jek_white from './img/icon-jek-white.svg';
-import facebook from './img/facebook.png';
-import instagram from './img/instagram.png';
+import facebook from './img/facebook.svg';
+import instagram from './img/instagram.svg';
 
 
 

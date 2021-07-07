@@ -3,6 +3,7 @@ color: var(--lightblue);
  }
  .area{
    margin: 3% 0;
+   max-height:40vh;
  }
 
  .area h2:hover{
@@ -11,13 +12,24 @@ color: var(--lightblue);
     transition: all .3s ease-in-out;
   }
 
-  .projects_area{
-    display: flex;
-    overflow-x:auto;
-    column-gap: 10px;
+  .projects_contain{
+    height: 90vw;
+    width:40vh;
+    transform: rotate(-90deg) translateX(-40vh);
+    transform-origin: top left;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    -ms-overflow-style: none;
   }
-  .project_text{
-    max-width:20vw;
+
+  .projects_area{
+    column-gap: 10px; 
+    display: flex;
+    flex-direction: row;
+    transform: rotate(90deg) translateY(-40vh);
+    transform-origin: top left;
+    width: 15vh;
+    height:90vw;
 
   }
    .project_img img{
@@ -32,7 +44,6 @@ color: var(--lightblue);
 .project:hover .project_img {
      background: rgba(124, 204, 237, 0.9); 
      transition: all .3s ease-in-out;
-
 }
 
   .project:hover img{
@@ -47,6 +58,7 @@ color: var(--lightblue);
     .project_text{
       margin-top: 4%;
       margin-bottom: 10%;
+      max-width: 20vw;
       color:white;
     }
     .project_text> h3,h5{
@@ -67,16 +79,33 @@ color: var(--lightblue);
     .area h2{
       font-size: 2rem;
     }
+    .area{
+      max-height: none;
+    }
+    
+    .project img{
+      width:40vw;
+      height: 15vh;
+    }
+    .projects_contain{
+      height: auto;
+      width: auto;
+      transform: none;
+      overflow-y: auto;
+      -ms-overflow-style: none;
+    }
+
     .projects_area{
       display: grid;
       grid-template-columns: 45% 45%;
       grid-gap: 2vh 5vw;
       overflow-x: auto;
+      height:auto;
+      transform: none;
+      transform-origin: none;
+      width:100vw;
     }
-    .project img{
-      width:40vw;
-      height: 15vh;
-    }
+
     .project_text{
       max-width: 40vw;
     }

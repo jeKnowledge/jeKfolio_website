@@ -6,9 +6,13 @@ import Skeleton, { SkeletonTheme } from "react-loading-skeleton";
 
 
 const ProjectDetails = () => {
+  // const flavoursContainer = document.getElementById('flavoursContainer');
+  const div = document.getElementsByClassName('projects_area');
+
     const{field}=useParams(); 
     const{id}=useParams(); 
     let history = useHistory();
+
 
 return( 
     <div className="project-details">
