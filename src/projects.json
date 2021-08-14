@@ -139,7 +139,6 @@
         "by":["Angela Laspriella",", ","Margarida Souto",", ","Francisca Laureano",", ","André Santos (NEI)",", "],
         "data":"april 2021",
         "tecs":"HTML/CSS, JavaScript, Figma"
-        
         },
         { 
         "id":12,
@@ -166,7 +165,17 @@
         "tecs":"Adobe Illustrator"
         
             }
-
+    ],"eventos":[
+        { 
+            "id":14,
+            "title":"Shift APPens 2021",
+            "cover":"https://i.imgur.com/xemOp1S.png",
+            "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/FeUYw8Z.png","https://i.imgur.com/9iMyY3l.png"],
+            "descricao":"Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+            "link":"https://www.instagram.com/shiftappens/",
+            "cliente":"jeKnowledge, NEI",
+            "data":"april 2021"
+            }
     ]
 
     

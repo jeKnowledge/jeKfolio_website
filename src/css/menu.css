@@ -30,7 +30,6 @@ color: var(--lightblue);
     transform-origin: top left;
     width: 15vh;
     height:90vw;
-
   }
    .project_img img{
     width:20vw;
@@ -81,6 +80,9 @@ color: var(--lightblue);
     }
     .area{
       max-height: none;
+    }
+    .project{
+      height:10vh;
     }
     
     .project img{
