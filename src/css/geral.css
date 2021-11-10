@@ -34,8 +34,6 @@ blockquote, q {
     quotes: none;
 }
 
-
-
 ::-webkit-scrollbar {
   display: none;
 }
@@ -66,8 +64,6 @@ body {
   color: white;
   font-family: 'Suisse-Int-Medium';
   font-size: 24px;
-  overflow-x: hidden; /* hide horizontal scrollbar */
-
 }
 
 main {

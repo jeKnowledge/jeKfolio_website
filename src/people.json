@@ -1,0 +1,14 @@
+{
+    "people":[
+    {
+        "id":1,
+        "nome":"João Cardoso",
+        "project_id":"1"
+    },
+    { 
+        "id":2,
+        "nome":"Diogo Ribeiro",
+        "project_id":"1"
+    }
+    ]
+}

@@ -54,7 +54,7 @@
         "cover":"https://i.imgur.com/PUZSnW0.png",
         "img":["https://i.imgur.com/Gp3tY4M.png","https://i.imgur.com/8E1U8iM.png"],
         "descricao": "ColorADD.Social is a non-profit association dedicated to promoting the social integration of people with difficulty in color identification, in particular those with color blindness, through the adoption of the ColorADD code. This website serves as support for ColorADD.Social's mission, which aims to alert the community in general to the cause of color-blindness, with a particular focus on the school community, by training, supporting and socially monitoring educational and inclusion projects. To this end, we have implemented simulations so that all users can interact and experience the different color-blind visions, along with detailed information regarding the awareness actions of this organization." ,
-        "link":"https://www.coloraddsocial.org/",
+        "link":"https://www.coloraddsocial.org/", 
         "cliente":"ColorADD",
         "by":["Diogo Ribeiro",", ","Bernardo Prior"],
         "data":"february 2021",
@@ -96,12 +96,36 @@
         "by":["Carla Gomes",", ", "Filipe Lopes",", ", "Miguel Galvão",", ", "Francisco Silva",", ", "Luís Silva"],
         "data":"june 2020",
         "tecs":"React, Django Node"
+        },
+        {
+        "id":9,
+        "title":"Climate Clock",
+        "cover":"https://i.imgur.com/JAhULLH.png",
+        "img":["https://i.imgur.com/hKjcGHZ.png","https://i.imgur.com/4rgaL3o.png"],
+        "descricao":"The Climate Clock is a graph that highlights the most important deadline of all: the World's. Its time indicates the time window to avoid that the most nefarious effects regarding global warming become irreversible.  The clock shows the remaining time until we use up the 'carbon budget', that is, the maximum amount of carbon we can burn so that there's a 67% chance we stay under the 1.5º C above the average temperature prior to the Industrial Revolution mark. This mark corresponds to the red line drawn by scientists, defined as a 'no return point', that is, the point from which positive retroaction mecanisms that will disturb the climate beyond human intervention will take place.",
+        "link":"https://climateclock.pt/",
+        "cliente":"jeKnowledge/Molecular JE",
+        "by":["Ines Galvão",", ", "Margarida Souto"],
+        "data":"september 2021",
+        "tecs":"HTML/CSS, JavaScript"
+        },
+        {
+        "id":10,
+        "title":"Solve",
+        "cover":"https://i.imgur.com/JAhULLH.png",
+        "img":["https://i.imgur.com/hKjcGHZ.png","https://i.imgur.com/4rgaL3o.png"],
+        "descricao":"This project consists on the development of a website for the Junior Iniciative Solve.",
+        "link":"https://www.solveportugal.com/",
+        "cliente":"Solve",
+        "by":["Diogo Ribeiro",", ", "Diogo Sobreira"],
+        "data":"october 2021",
+        "tecs":"ReactJS"
         }
     ],
 
     "software":[ 
         {
-            "id":8,
+            "id":1,
             "title":"Mentora Health",
             "cover":"https://i.imgur.com/5ShiRNG.jpg",
             "img":["https://i.imgur.com/5ShiRNG.jpg","https://i.imgur.com/x5cC2BW.png"],
@@ -111,13 +135,26 @@
             "by":["Luís Silva",", ", "Angela Laspriella",", ", "João Marcelino",", ", "Miguel Galvão"],
             "data":"november 2020",
             "tecs":"Firebase, Flutter, Figma, Adobe Illustrator"
-            }
+        }, 
+        {
+            "id":2,
+            "title":"Noytrall",
+            "cover":"https://i.imgur.com/fKwsLPm.png",
+            "img":["https://i.imgur.com/ZF5kFfv.png","https://i.imgur.com/JyBy8i8.png"],
+            "descricao":"Nøytrall offers a guest consumption monitoring system that allows hotels to create a new tariff paradigm, creating a sustainable tariff model. It will be possible to separate guest consumption from the hotel's base price, offering transparency and fairness in rates. Guests pay for what they consume. Through an app, guests can consult their consumption and interact with an education and gamification system that promotes the adoption of good sustainability practices, rewarding them with a set of experiences or sustainable products.",
+            "link":"https://noytrall.web.app/",
+            "cliente":"Noytrall",
+            "by":["Bernardo Prior",", ", "Francisco Silva"],
+            "data":"2020",
+            "tecs":"Node, React, Ionic"
+
+        }
 
         ],
 
     "design":[ 
         { 
-            "id":10,
+            "id":1,
             "title":"DotWorks 2021",
             "cover":"https://i.imgur.com/yy4kea6.png",
             "img":["https://i.imgur.com/xT80WEY.png","https://i.imgur.com/hctyTuR.png", "https://i.imgur.com/zplf49S.png", "https://i.imgur.com/BynmuYx.png"],
@@ -129,7 +166,7 @@
             "tecs":"Figma, Adobe Illustrator, Photoshop, After Effects, InDesign"
         },
         { 
-        "id":11,
+        "id":2,
         "title":"Shift APPens 2021",
         "cover":"https://i.imgur.com/xemOp1S.png",
         "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/FeUYw8Z.png","https://i.imgur.com/9iMyY3l.png"],
@@ -141,7 +178,7 @@
         "tecs":"HTML/CSS, JavaScript, Figma"
         },
         { 
-        "id":12,
+        "id":3,
         "title":"Porto Blockchain Conference 2021",
         "cover": "https://i.imgur.com/6OwwQ1N.png",
         "img":["https://i.imgur.com/yLldJRG.png","https://i.imgur.com/VvXU0VW.png","https://i.imgur.com/tItTPxf.png", "https://i.imgur.com/huAt1zo.png"],
@@ -153,7 +190,7 @@
         "tecs":"Photoshop, Adobe After Effects, Adobe Illustrator"
         },
         { 
-        "id":13,
+        "id":4,
         "title":"jeK Academy 2020",
         "cover": "https://i.imgur.com/o59NNhm.png",
         "img":["https://i.imgur.com/d6R4mwx.jpg","https://i.imgur.com/qczmP0d.png","https://i.imgur.com/qCrlHu2.png", "https://i.imgur.com/qCrlHu2.png"],
@@ -163,11 +200,34 @@
         "by":["Alexandre Pinho"],
         "data":"july 2020",
         "tecs":"Adobe Illustrator"
-        
-            }
+        },
+        { 
+        "id":5,
+        "title":"AI Sunsets 2021",
+        "cover": "https://i.imgur.com/o59NNhm.png",
+        "img":["https://i.imgur.com/d6R4mwx.jpg","https://i.imgur.com/qczmP0d.png","https://i.imgur.com/qCrlHu2.png", "https://i.imgur.com/qCrlHu2.png"],
+        "descricao":"AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field." ,
+        "link":"https://www.instagram.com/aisunsets/",
+        "cliente":"jeKnowledge",
+        "by":["Angela Laspriella", ",","Francisca Sousa"],
+        "data":"october 2021",
+        "tecs":"Figma, Adobe Illustrator"
+        },
+        {
+        "id":6,
+        "title":"Climate Clock",
+        "cover":"https://i.imgur.com/JAhULLH.png",
+        "img":["https://i.imgur.com/hKjcGHZ.png","https://i.imgur.com/4rgaL3o.png"],
+        "descricao":"The Climate Clock is a graph that highlights the most important deadline of all: the World's. Its time indicates the time window to avoid that the most nefarious effects regarding global warming become irreversible.  The clock shows the remaining time until we use up the 'carbon budget', that is, the maximum amount of carbon we can burn so that there's a 67% chance we stay under the 1.5º C above the average temperature prior to the Industrial Revolution mark. This mark corresponds to the red line drawn by scientists, defined as a 'no return point', that is, the point from which positive retroaction mecanisms that will disturb the climate beyond human intervention will take place.",
+        "link":"https://www.instagram.com/climateclock.coimbra/",
+        "cliente":"jeKnowledge/Molecular JE",
+        "by":["Ines Galvão",", ", "Margarida Souto"],
+        "data":"september 2021",
+        "tecs":"Figma, Adobe Illustrator"
+        }
     ],"eventos":[
         { 
-            "id":14,
+            "id":1,
             "title":"Shift APPens 2021",
             "cover":"https://i.imgur.com/xemOp1S.png",
             "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/FeUYw8Z.png","https://i.imgur.com/9iMyY3l.png"],
@@ -175,7 +235,29 @@
             "link":"https://www.instagram.com/shiftappens/",
             "cliente":"jeKnowledge, NEI",
             "data":"april 2021"
-            }
+        },
+        { 
+            "id":2,
+            "title":"AI Sunsets 2021",
+            "cover":"https://i.imgur.com/xemOp1S.png",
+            "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/FeUYw8Z.png","https://i.imgur.com/9iMyY3l.png"],
+            "descricao":"AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field.",
+            "link":"https://www.instagram.com/shiftappens/",
+            "cliente":" ",
+            "data":"october 2021"
+        },
+        { 
+            "id":3,
+            "title":"Lime Conference 2021",
+            "cover":"https://i.imgur.com/xemOp1S.png",
+            "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/FeUYw8Z.png","https://i.imgur.com/9iMyY3l.png"],
+            "descricao":"",
+            "link":"https://www.instagram.com/shiftappens/",
+            "cliente":" ",
+            "data":"october 2021"
+        }
+
+    
     ]
 
     

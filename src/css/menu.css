@@ -3,7 +3,6 @@ color: var(--lightblue);
  }
  .area{
    margin: 3% 0;
-   max-height:40vh;
  }
 
  .area h2:hover{
@@ -12,25 +11,42 @@ color: var(--lightblue);
     transition: all .3s ease-in-out;
   }
 
-  .projects_contain{
-    height: 90vw;
-    width:40vh;
-    transform: rotate(-90deg) translateX(-40vh);
-    transform-origin: top left;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    -ms-overflow-style: none;
-  }
-
-  .projects_area{
+  .projects{
+    min-width: 90vw;
     column-gap: 10px; 
     display: flex;
-    flex-direction: row;
-    transform: rotate(90deg) translateY(-40vh);
-    transform-origin: top left;
-    width: 15vh;
-    height:90vw;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding-bottom: 2%;
   }
+
+  .projects::-webkit-scrollbar {
+    height: 5px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .projects::-webkit-scrollbar-track-piece {
+    background: white ;
+    text-align: center;
+  }
+  
+  .projects::-webkit-scrollbar-thumb {
+    background: var(--blue);
+  }
+  
+  .projects::-webkit-scrollbar-button:end:increment {
+    width: 20%;
+    display: block;
+    background: transparent;
+  }
+  
+  .projects::-webkit-scrollbar-button:start:increment {
+    width: 20%;
+    display: block;
+    background: transparent;
+  }
+  
    .project_img img{
     width:20vw;
     height: 20vh;
@@ -55,8 +71,6 @@ color: var(--lightblue);
       transition: all .3s ease-in-out;
     }
     .project_text{
-      margin-top: 4%;
-      margin-bottom: 10%;
       max-width: 20vw;
       color:white;
     }
@@ -74,40 +88,24 @@ color: var(--lightblue);
     transition: all .3s ease-in-out;
   }
 
+
   @media screen and (max-width: 600px){
+   
     .area h2{
       font-size: 2rem;
     }
-    .area{
-      max-height: none;
-    }
-    .project{
-      height:10vh;
-    }
-    
     .project img{
       width:40vw;
       height: 15vh;
     }
-    .projects_contain{
-      height: auto;
-      width: auto;
-      transform: none;
-      overflow-y: auto;
-      -ms-overflow-style: none;
-    }
-
-    .projects_area{
+   
+    .projects{
       display: grid;
       grid-template-columns: 45% 45%;
-      grid-gap: 2vh 5vw;
+      grid-gap: 4vh 5vw;
       overflow-x: auto;
-      height:auto;
-      transform: none;
-      transform-origin: none;
       width:100vw;
     }
-
     .project_text{
       max-width: 40vw;
     }

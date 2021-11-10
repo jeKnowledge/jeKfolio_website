@@ -1,9 +1,8 @@
 import ProjectData from "./projects.json";
+import PeopleData from "./people.json"
 import React from 'react';
 import { useParams, useLocation, useHistory } from 'react-router-dom';
 import Skeleton, { SkeletonTheme } from "react-loading-skeleton";
-
-
 
 const ProjectDetails = () => {
   // const flavoursContainer = document.getElementById('flavoursContainer');

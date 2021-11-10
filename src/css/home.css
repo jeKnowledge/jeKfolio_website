@@ -2,20 +2,37 @@
   height: auto;
 } 
 
-.home h1{
+#intro h1{
     color:var(--blue);
     font-size: 4rem; 
   }
   #intro{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+  }
+  #subtitulo{
     position: relative;
-    height: 95vh;
-
+    color:var(--lightblue) !important;
   }
 #seta{
-    width:12vw;
+    width:16vw;
     position: absolute;
-    bottom:-20%;
-    right:34%;
+    bottom:-15%;
+    right:42%;
+  }
+  @media screen and (max-width: 1030px){
+    #intro{
+      justify-content: flex-end;
+    }
+    #seta{
+      display:none;
+    }  
+    #intro h1{
+      font-size: 6rem;
+    }
+  
+  
   }
 
   @media screen and (max-width: 600px){
@@ -23,10 +40,10 @@
     #intro h1{
       font-size: 2.5rem;
     }
-    #seta{
-      display:none;
-    }
+
   }
+
+  
  
   
   

@@ -24,7 +24,7 @@ const Footer = () => {
         </div>
         <div className="contacts">
         <p>geral@jeknowledge.com
-            <br/>+351 926 590 223
+            <br/>+351 919 818 111
             <br/>This website is
             <br/>© jeKnowledge 2021</p>
         </div>
