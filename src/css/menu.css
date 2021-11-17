@@ -15,7 +15,7 @@ color: var(--lightblue);
     min-width: 90vw;
     column-gap: 10px; 
     display: flex;
-    overflow-x: scroll;
+    overflow-x: auto;
     overflow-y: hidden;
     padding-bottom: 2%;
   }

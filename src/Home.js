@@ -3,6 +3,7 @@ import './css/home.css';
 import './css/menu.css';
 import './css/projeto.css';
 import ProjectList from './ProjectList.js';
+import Events from './Events.js';
 import seta from './img/seta5.svg';
 
 
@@ -22,8 +23,8 @@ const Home = () => {
                 <ProjectList field="software" title="Software"></ProjectList> 
                 <ProjectList field="design" title="Design"></ProjectList>
                 <ProjectList field="eventos" title="Eventos"></ProjectList>
-                <ProjectList field="videos" title="Vídeos"></ProjectList>
 
+                {/* <ProjectList field="videos" title="Vídeos"></ProjectList> */}
 
             </div>
             

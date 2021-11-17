@@ -21,7 +21,7 @@ const ProjectList = ({field, title }) => {
               
                 <Link to={`/projects/${field}/${detail.id}`}>
                   <div className="project_img">
-                    <img src={detail.cover || <Skeleton/> } alt="capa"/> 
+                    <img src={detail.cover || <Skeleton/>} alt="capa"/> 
                   </div>
                   <div className="project_text">
                     <h5>{detail.data}</h5>
@@ -33,19 +33,12 @@ const ProjectList = ({field, title }) => {
           )
         })
       }
-
-
         </div>
-
         }
         
-
     </div>
-   );
-
-   
+   );  
 }
-
 export default ProjectList;
 
 

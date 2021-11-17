@@ -2,8 +2,11 @@ import Home from './Home.js';
 import Header from './Header';
 import Footer from './Footer';
 import ScrollToTop from './scrollTop';
-import ProjectDetails from './ProjectDetails.js';
 
+import Websites from './Websites.js';
+import Software from './Software.js';
+import Design from './Design.js';
+import Events from './Events.js';
 import './css/geral.css';
 
 import {
@@ -30,8 +33,17 @@ function App() {
           <Home />
         </Route>
 
-        <Route path="/projects/:field/:id">
-          <ProjectDetails />
+        <Route path="/projects/websites/:id">
+          <Websites />
+        </Route>
+        <Route path="/projects/software/:id">
+          <Software />
+        </Route>
+        <Route path="/projects/design/:id">
+          <Design />
+        </Route>
+        <Route path="/projects/eventos/:id">
+          <Events/>
         </Route>
 
       </Switch>
