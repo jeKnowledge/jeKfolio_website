@@ -19,6 +19,16 @@
     width:100%;
     justify-content: space-between;
 }
+ .events{
+    flex-direction: column;
+} 
+.project-desc-events{
+    width:100%;
+    padding-top: 2%;
+}
+.event h1{
+    padding-bottom: 0 !important;
+}
 .project-desc{
     width: 60%;
 }

@@ -260,7 +260,7 @@
             "title":"Lime Conference",
             "cover":"https://i.imgur.com/R6mzhaf.jpg",
             "img":["https://i.imgur.com/DFJDVa5.jpg","https://i.imgur.com/kcL6Uc9.jpg","https://i.imgur.com/z9DxbCK.jpg","https://i.imgur.com/19gC0w9.jpg"],
-            "descricao":"",
+            "descricao":"Lime Conference in an event that targets the solution of problems through design thinking and problem solving techniques, which motivate creativity and innovation. The mail goal is to focus on inscreasingly used methodologies to better develop and smartly use human skills.",
             "link":"https://www.limeconf.com/",
             "cliente":" ",
             "data":"2019 - present"
@@ -272,6 +272,16 @@
             "img":["https://i.imgur.com/evp7kZh.jpg","https://i.imgur.com/zlBDtUi.jpg","https://i.imgur.com/i8k3N4T.jpg", "https://i.imgur.com/fi5rQlH.jpg"],
             "descricao":"jeKnowledge Academy is an event dedicated to High School students where they have the opportunity to learn things like creating their own personal website, developing a game and also learning how to build electronic circuits. All these experiences have several objectives: to make up for the absence of these themes in High school education curricular plans, to show the variety of things that can be built with code and also to help answer the question “What degree do I want to take at the university?”" ,
             "link":"https://www.instagram.com/jeknowledgeacademy/",
+            "cliente":"",
+            "data":"2017 - present"
+        },
+        { 
+            "id":5,
+            "title":".works",
+            "cover": "https://i.imgur.com/U5qxC7F.jpg",
+            "img":["https://i.imgur.com/U5qxC7F.jpg","https://i.imgur.com/qSZQ0J2.jpg","https://i.imgur.com/9SX7wcE.jpg", "https://i.imgur.com/xITGquN.jpg", "https://i.imgur.com/etexXhU.jpg"],
+            "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better." ,
+            "link":"dotworks@jeknowledge.com",
             "cliente":"",
             "data":"2017 - present"
         }

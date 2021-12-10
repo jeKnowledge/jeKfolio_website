@@ -20,20 +20,22 @@ const Events = () => {
         if (detail.id == id) {
 
           return (
-            <div className="project-info" key={id}>
+            <div className="project-info event" key={id}>
 
               <a href={detail.link} target="_blank"><h1>{detail.title} </h1></a>
 
-              <div className="project-text">
+              <div className="project-text events">
 
-                <div className="project-desc">
+              <div className="project-about">
+                  <p>{detail.data}</p>
+
+                </div>
+
+                <div className="project-desc-events">
                   <p>{detail.descricao}</p>
                 </div>
 
-                <div className="project-about">
-                  <p><b>{detail.data}</b></p>
-
-                </div>
+               
 
               </div>
 
