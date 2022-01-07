@@ -3,9 +3,7 @@ import './css/home.css';
 import './css/menu.css';
 import './css/projeto.css';
 import ProjectList from './ProjectList.js';
-import Events from './Events.js';
 import seta from './img/seta5.svg';
-
 
 const Home = () => {
 
@@ -16,7 +14,6 @@ const Home = () => {
                 <h1>Hi, we're jeKnowledge and <br/> this is our work!</h1>
                 <h1 id="subtitulo">We do plenty of things, <br/> some of them are...</h1>
             </div>
-            <img id="seta" src={seta} alt="seta"/>
 
             <div className="menu">
                 <ProjectList field="websites" title="Website / App"></ProjectList> 

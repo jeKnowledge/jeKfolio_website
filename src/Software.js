@@ -1,8 +1,6 @@
 import ProjectData from "./projects.json";
-import PeopleData from "./people.json";
 import React from 'react';
-import { useParams, useLocation, useHistory } from 'react-router-dom';
-import Skeleton, { SkeletonTheme } from "react-loading-skeleton";
+import { useParams, useHistory } from 'react-router-dom';
 
 const Software = () => {
   // const flavoursContainer = document.getElementById('flavoursContainer');
@@ -41,11 +39,11 @@ return(
               </div>
             
               <div className="project-gallery">
-                  <img src={detail.img[0]|| <Skeleton/>} alt="imagem"></img>
-                  <img src={detail.img[1]||<Skeleton/>} alt="imagem"></img>
+                  <img src={detail.img[0]} alt="imagem"></img>
+                  <img src={detail.img[1]} alt="imagem"></img>
               </div>
 
-              <button onClick={() => history.goBack()}>Back</button>
+              <button id="back" onClick={() => history.goBack()}>Back</button>
           </div>   
 
 

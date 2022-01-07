@@ -29,7 +29,7 @@
         "title":"Shift APPens 2021",
         "cover":"https://i.imgur.com/xemOp1S.png",
         "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png"],
-        "descricao":"Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+        "descricao":"Shift APPens is a Hackathon organized with love by jeKnowledge and by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
         "link":"https://shiftappens.com",
         "cliente":"Internal project, in collaboration with the Informatics Engineering Nucleus of the University of Coimbra",
         "by":["Angela Laspriella",", ","Margarida Souto",", ","Francisca Laureano",", ", "Joana Sousa" ],
@@ -239,8 +239,18 @@
             "id":1,
             "title":"Shift APPens",
             "cover":"https://i.imgur.com/8QG0cdw.png",
-            "img":["https://i.imgur.com/k2bsIlh.png","https://i.imgur.com/UcswF5d.png","https://i.imgur.com/e69y0zM.png","https://i.imgur.com/8QG0cdw.png"],
-            "descricao":"Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+            "img":[
+                ["https://i.imgur.com/UcswF5d.png","Shift APPens 2021"],
+                ["https://i.imgur.com/e69y0zM.png","Shift APPens 2021"],
+                ["https://i.imgur.com/k2bsIlh.png", "Shift APPens 2019"],
+                ["https://i.imgur.com/8QG0cdw.png","Shift APPens 2019"],
+                ["https://i.imgur.com/ip28Fqb.jpg","Shift APPens 2018"],
+                ["https://i.imgur.com/71QBMQs.jpg", "Shidt APPEns 2017"],
+                ["https://i.imgur.com/WIjW4F0.jpg", "Shift APPens 2016"],
+                ["https://i.imgur.com/GEF31Cp.jpg", "Shift APPens 2015"],
+                ["https://i.imgur.com/UG7T8D5.jpg", "Shift APPens 2014"]
+            ],
+            "descricao":"Shift APPens is a Hackathon organized with love by jeKnowledge and by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
             "link":"https://www.instagram.com/shiftappens/",
             "cliente":"",
             "data":"2014 - present"
@@ -249,7 +259,12 @@
             "id":2,
             "title":"AI Sunsets",
             "cover":"https://i.imgur.com/c79ZPJ6.jpg",
-            "img":["https://i.imgur.com/7RCozES.jpg","https://i.imgur.com/KxSyUSg.jpg","https://i.imgur.com/SZY0wnm.jpg","https://i.imgur.com/MzPxRgG.jpg"],
+            "img":[
+                ["https://i.imgur.com/SZY0wnm.jpg","AI Sunsets 2021"],
+                ["https://i.imgur.com/MzPxRgG.jpg","AI Sunsets 2021"],
+                ["https://i.imgur.com/7RCozES.jpg","AI Sunsets 2019"],
+                ["https://i.imgur.com/KxSyUSg.jpg","AI Sunsets 2019"]
+                ],
             "descricao":"AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field.",
             "link":"https://aisunsets.com/",
             "cliente":" ",
@@ -259,8 +274,15 @@
             "id":3,
             "title":"Lime Conference",
             "cover":"https://i.imgur.com/R6mzhaf.jpg",
-            "img":["https://i.imgur.com/DFJDVa5.jpg","https://i.imgur.com/kcL6Uc9.jpg","https://i.imgur.com/z9DxbCK.jpg","https://i.imgur.com/19gC0w9.jpg"],
-            "descricao":"Lime Conference in an event that targets the solution of problems through design thinking and problem solving techniques, which motivate creativity and innovation. The mail goal is to focus on inscreasingly used methodologies to better develop and smartly use human skills.",
+            "img":[
+                ["https://i.imgur.com/9pgiDJ4.jpg", "Lime Conference 2021"],
+                ["https://i.imgur.com/DFJDVa5.jpg","Lime Conference 2020"],
+                ["https://i.imgur.com/kcL6Uc9.jpg","Lime Conference 2020"],
+                ["https://i.imgur.com/jcjj0Jv.jpg", "Lime Conference 2020"],
+                ["https://i.imgur.com/z9DxbCK.jpg","Lime Conference 2019"],
+                ["https://i.imgur.com/19gC0w9.jpg","Lime Conference 2019"]
+            ],
+            "descricao":"Lime Conference in an event that targets the solution of problems through design thinking and problem solving techniques, which motivate creativity and innovation. The main goal is to focus on inscreasingly used methodologies to better develop and smartly use human skills.",
             "link":"https://www.limeconf.com/",
             "cliente":" ",
             "data":"2019 - present"
@@ -269,7 +291,14 @@
             "id":4,
             "title":"jeK Academy",
             "cover": "https://i.imgur.com/zlBDtUi.jpg",
-            "img":["https://i.imgur.com/evp7kZh.jpg","https://i.imgur.com/zlBDtUi.jpg","https://i.imgur.com/i8k3N4T.jpg", "https://i.imgur.com/fi5rQlH.jpg"],
+            "img":[
+                ["https://i.imgur.com/evp7kZh.jpg","jeK Academy 2021"],
+                ["https://i.imgur.com/zlBDtUi.jpg","jeK Academy 2021"],
+                ["https://i.imgur.com/rn8zXzy.jpg","jeK Academy 2021"],
+                ["https://i.imgur.com/K0yBBva.jpg", "jeK Academy 2021"],
+                ["https://i.imgur.com/i8k3N4T.jpg", "jeK Academy 2019"],
+                ["https://i.imgur.com/fi5rQlH.jpg", "jeK Academy 2019"]
+            ],
             "descricao":"jeKnowledge Academy is an event dedicated to High School students where they have the opportunity to learn things like creating their own personal website, developing a game and also learning how to build electronic circuits. All these experiences have several objectives: to make up for the absence of these themes in High school education curricular plans, to show the variety of things that can be built with code and also to help answer the question “What degree do I want to take at the university?”" ,
             "link":"https://www.instagram.com/jeknowledgeacademy/",
             "cliente":"",
@@ -279,7 +308,14 @@
             "id":5,
             "title":".works",
             "cover": "https://i.imgur.com/U5qxC7F.jpg",
-            "img":["https://i.imgur.com/U5qxC7F.jpg","https://i.imgur.com/qSZQ0J2.jpg","https://i.imgur.com/9SX7wcE.jpg", "https://i.imgur.com/xITGquN.jpg", "https://i.imgur.com/etexXhU.jpg"],
+            "img":[
+                ["https://i.imgur.com/6IZqmRT.jpg",".works 2021"],
+                ["https://i.imgur.com/U5qxC7F.jpg",".works 2019"],
+                ["https://i.imgur.com/qSZQ0J2.jpg",".works 2019"],
+                ["https://i.imgur.com/9SX7wcE.jpg", ".works 2019"],
+                ["https://i.imgur.com/TbyI7cI.jpg",".works 2018"],
+                ["https://i.imgur.com/EcSW3pC.jpg",".works 2018"]
+            ],
             "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better." ,
             "link":"dotworks@jeknowledge.com",
             "cliente":"",

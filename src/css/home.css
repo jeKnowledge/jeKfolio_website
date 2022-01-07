@@ -14,19 +14,11 @@
     position: relative;
     color:var(--lightblue) !important;
   }
-#seta{
-    width:16vw;
-    position: absolute;
-    bottom:-15%;
-    right:42%;
-  }
+
   @media screen and (max-width: 1030px){
     #intro{
       justify-content: flex-end;
     }
-    #seta{
-      display:none;
-    }  
     #intro h1{
       font-size: 6rem;
     }

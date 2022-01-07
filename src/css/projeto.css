@@ -57,7 +57,22 @@
     background-color: white;
     color: black;
 }
-.project-info button{
+
+
+#events-gallery img{
+    height: 65vh !important;
+    width: 100%;
+    object-fit: contain;
+    background-color: black;
+    margin: 4% 0;
+}
+#events-gallery p{
+    text-align: center;
+    margin-bottom: 2%;
+
+}
+
+#back {
     background-color: var(--blue);
     color: white;
     font-size: 1em;
@@ -66,13 +81,14 @@
     margin-top: 4%;
     border: none;
 }
-.project-info button:hover{
+#back:hover{
     background-color: var(--lightblue);
     cursor: pointer;
 }
 .design{
     display: block;
 }
+
 .project-gallery>div{
     margin-top:5%;
     display: flex;
@@ -86,6 +102,17 @@
     background-color: white;
     color: black;
 }
+slick-prev:before{
+    display: none;
+}
+
+.slick-dots li.slick-active button:before {
+    color: white !important;
+  }
+
+  .slick-dots li button:before{
+      color:#AEADAA !important;
+  }
 
 @media screen and (max-width: 600px){
     .project-info{
@@ -105,8 +132,15 @@
     .project-gallery>div img , .project-gallery img{
         height:20vh;
     }
-    .project-info button{
-        font-size: 0.5em;
+    #back {
+        font-size: 0.8em;
+    }
+    #events-gallery img{
+        height:45vh !important;
+        margin: 1% 0;
+    }
+    #back{
+        margin-top:10%;
     }
 }
 
