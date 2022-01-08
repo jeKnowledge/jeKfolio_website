@@ -21,8 +21,6 @@ const Home = () => {
                 <ProjectList field="design" title="Design"></ProjectList>
                 <ProjectList field="eventos" title="Events"></ProjectList>
 
-                {/* <ProjectList field="videos" title="Vídeos"></ProjectList> */}
-
             </div>
             
         </div>

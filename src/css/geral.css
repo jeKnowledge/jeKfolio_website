@@ -116,7 +116,7 @@ a{
 .footer{
   padding: 2% 4%;
   margin-top: 10%;
-  height:15vh;
+  height:auto;
   background-color: var(--blue);
   display: flex;
   justify-content: space-between;
@@ -152,8 +152,7 @@ a{
 
   .footer{
     display: block;
-    height:50vh;
-    padding: 7vh 0;
+    padding: 10% 0;
   }
   .footer .footer-adress, .footer .contacts{
     text-align: center;
@@ -162,7 +161,6 @@ a{
     width: 100%;
     justify-content: center;
     margin: 4vh 0 ;
-
   }
   .footer-middle .social {
     width: 5vw;
@@ -172,6 +170,7 @@ a{
     margin: 0 5vw;
 
   } 
-
-
+  #error{
+    min-height:80vh ;
+  }
 }

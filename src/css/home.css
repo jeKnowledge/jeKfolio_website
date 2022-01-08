@@ -16,20 +16,24 @@
   }
 
   @media screen and (max-width: 1030px){
+    
+  
+  
+  }
+  @media screen and (max-width: 700px){
     #intro{
       justify-content: flex-end;
     }
     #intro h1{
-      font-size: 6rem;
-    }
-  
-  
-  }
-
-  @media screen and (max-width: 600px){
- 
-    #intro h1{
       font-size: 2.5rem;
+    }
+
+  }
+  @media screen and (max-width: 600px){
+    
+    #intro h1{
+      font-size: 2rem;
+
     }
 
   }

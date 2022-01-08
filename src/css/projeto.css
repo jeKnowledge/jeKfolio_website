@@ -120,12 +120,12 @@ slick-prev:before{
     }
     
     .project-about{
-        margin:5vh 0;
+        margin-bottom:4vh 0;
     }
     .project-text{
         display: block;
     }
-    .project-desc, .project-about{
+    .project-desc,.project-desc-events ,.project-about{
         width:90%;
         font-size: 0.8em;
     }
@@ -134,13 +134,19 @@ slick-prev:before{
     }
     #back {
         font-size: 0.8em;
+        margin-top:10%;
+
     }
     #events-gallery img{
         height:45vh !important;
         margin: 1% 0;
     }
-    #back{
-        margin-top:10%;
+    #events-gallery p{
+        font-size: 0.8em;
     }
+    .project-info.event #back{
+        margin-top: 20%;
+    }
+    
 }
 

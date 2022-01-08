@@ -90,7 +90,9 @@ color: var(--lightblue);
 
 
   @media screen and (max-width: 600px){
-   
+   .menu{
+     margin-top: 10%;
+   }
     .area h2{
       font-size: 2rem;
     }
@@ -105,6 +107,7 @@ color: var(--lightblue);
       grid-gap: 4vh 5vw;
       overflow-x: auto;
       width:100vw;
+      margin-top: 5%;
     }
     .project_text{
       max-width: 40vw;
