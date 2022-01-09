@@ -159,6 +159,7 @@ text-align: center;}
 
 .footer-contacts{
   text-align: right;
+  margin: 0 0;
 }
 .footer-contacts #jek_logo_hor{
   width:10vw;
@@ -197,7 +198,7 @@ text-align: center;}
 
   .footer-contacts{
     order:2;
-    margin: 15% 0;
+    margin: 15% 10%;
   }
   .footer-adress{
     order:3;
@@ -216,8 +217,6 @@ text-align: center;}
   .footer-contacts #jek_logo_hor{
     width:30vw;
   } 
-
-
 
   #error{
     min-height:80vh ;

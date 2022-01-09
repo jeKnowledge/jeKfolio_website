@@ -13,9 +13,8 @@
             "link": "https://ponto-vermelho.jeknowledge.com/",
             "cliente": "Delegação de Braga da Cruz Vermelha Portuguesa",
             "by": [
-                "Diogo Ribeiro",
-                ", ",
-                "João Domingues"
+                ["UX/UI, Front-End","Diogo Ribeiro","https://www.linkedin.com/in/dbgfribeiro/"],
+                ["Back-End","João Domingues","https://www.linkedin.com/in/joão-domingues-8321a3217/"]
             ],
             "tecs": "HTML/CSS,JavaScript, Django"
         },
@@ -32,9 +31,9 @@
             "link": "https://portobc.com",
             "cliente": "Internal project",
             "by": [
-                "Alexandre Pinho",
-                ", ",
-                "Diogo Sobreira"
+                ["UX/UI","Alexandre Pinho","https://www.behance.net/alexandrepinho"],
+                ["Front-End","Diogo Sobreira","https://www.linkedin.com/in/diogosobreira/"]
+
             ],
             "tecs": "HTML/CSS, JavaScript"
         },
@@ -51,9 +50,8 @@
             "link": "https://www.coloraddsocial.org/",
             "cliente": "ColorADD",
             "by": [
-                "Diogo Ribeiro",
-                ", ",
-                "Bernardo Prior"
+                ["UX/UI, Front-End","Diogo Ribeiro","https://www.linkedin.com/in/dbgfribeiro/"],
+                ["Back-End","Bernardo Prior","https://www.linkedin.com/in/bernardo-prior/"]
             ],
             "tecs": "HTML/CSS, JavaScript, Django"
         },
@@ -70,18 +68,12 @@
             "link": "https://jekash.jeknowledge.com/",
             "cliente": "Internal project",
             "by": [
-                "Bárbara Vieira",
-                ", ",
-                "Margarida Souto",
-                "Eduardo Nunes",
-                ", ",
-                "Francisco Silva",
-                ", ",
-                "Gonçalo Correia",
-                ", ",
-                "Guilherme Gaspar",
-                ", ",
-                "Luís Silva"
+                ["Project Manager","Luís Silva","https://www.linkedin.com/in/luisantoniolds/"],
+                ["UX/UI","Bárbara Vieira","https://www.linkedin.com/in/barbaranspv/"],
+                ["UX/UI","Margarida Souto","https://www.linkedin.com/in/margarida-souto-684a041ba/"],
+                ["Full-Stack","Eduardo Nunes","https://github.com/PolpEdu"],
+                ["Full-Stack, Back-End","Gonçalo Correia","https://www.linkedin.com/in/gonçalo-correia-ba383b221/"],
+                ["Full-Stack, Back-End","Guilherme Gaspar","https://www.linkedin.com/in/guilhermegaspar00/"]
             ],
             "tecs": "HTML/CSS, JavaScript"
         },
@@ -98,13 +90,10 @@
             "link": "https://shiftappens.com",
             "cliente": "Internal project, in collaboration with the Informatics Engineering Nucleus of the University of Coimbra",
             "by": [
-                "Angela Laspriella",
-                ", ",
-                "Margarida Souto",
-                ", ",
-                "Francisca Laureano",
-                ", ",
-                "Joana Sousa"
+                ["UX/UI","Angela Laspriella","https://www.linkedin.com/in/angela-laspriella/"],
+                ["UX/UI","Francisca Laureano","https://www.linkedin.com/in/francisca-laureano-0a5023207/"],
+                ["UX/UI","Margarida Souto","https://www.linkedin.com/in/margarida-souto-684a041ba/"],
+                ["Front-End","Joana Sousa","https://www.linkedin.com/in/jbtsousa/"]
             ],
             "tecs": "HTML/CSS, JavaScript, Figma"
         },
@@ -121,14 +110,14 @@
             "link": "https://www.tedxuniversidadedecoimbra.pt/",
             "cliente": "TEDx Universidade de Coimbra",
             "by": [
-                "Diogo Ribeiro"
+                ["UX/UI, Front-End","Diogo Ribeiro","https://www.linkedin.com/in/dbgfribeiro/"]
             ],
             "tecs": "HTML/CSS, JavaScript"
         },
         {
             "id": 7,
             "data": "may 2021",
-            "title": "DotWorks 2021",
+            "title": ".works 2021",
             "cover": "https://i.imgur.com/yy4kea6.png",
             "img": [
                 "https://i.imgur.com/ChQg3MX.png",
@@ -138,13 +127,11 @@
             "link": "http://dotworks2021.jeknowledge.com/",
             "cliente": "Internal project",
             "by": [
-                "Inês Galvão",
-                ", ",
-                "Maria Raposo",
-                ", ",
-                "Bárbara Vieira",
-                ", ",
-                "João Domingues"
+                ["UX/UI","Inês Galvão","https://www.linkedin.com/in/inês-galvão-474a27205/"],
+                ["UX/UI","Maria Raposo","https://www.linkedin.com/in/maria-raposo-2457401ba/"],
+                ["Front-End","Bárbara Vieira","https://www.linkedin.com/in/barbaranspv/"],
+                ["Back-End","João Domingues","https://www.linkedin.com/in/joão-domingues-8321a3217/"]
+
             ],
             "tecs": "HTML/CSS, JavaScript, Django"
         },
@@ -161,15 +148,11 @@
             "link": " ",
             "cliente": "Internal project",
             "by": [
-                "Carla Gomes",
-                ", ",
-                "Filipe Lopes",
-                ", ",
-                "Miguel Galvão",
-                ", ",
-                "Francisco Silva",
-                ", ",
-                "Luís Silva"
+                ["UX/UI","Carla Gomes","https://www.linkedin.com/in/carla-gomes-6b92161a3/"],
+                ["Front-End","Luís Silva","https://www.linkedin.com/in/luisantoniolds/"],
+                ["Back-End","Miguel Galvão","https://www.linkedin.com/in/miguel-galvão-733a7b199/"],
+                ["Back-End","Francisco Silva","https://www.linkedin.com/in/francisco-silva-a74634184/"],
+                ["Back-End","Filipe Lopes","https://www.linkedin.com/in/filipe-lopes-a00033b9/"]
             ],
             "tecs": "React, Django Node"
         },
@@ -186,9 +169,8 @@
             "link": "https://climateclock.pt/",
             "cliente": "Internal project, in collaboration with Molecular JE",
             "by": [
-                "Ines Galvão",
-                ", ",
-                "Margarida Souto"
+                ["UX/UI, Front-End","Inês Galvão","https://www.linkedin.com/in/inês-galvão-474a27205/"],
+                ["UX/UI, Front-End","Margarida Souto","https://www.linkedin.com/in/margarida-souto-684a041ba/"]
             ],
             "tecs": "HTML/CSS, JavaScript"
         },
@@ -205,9 +187,8 @@
             "link": "https://www.solveportugal.com/",
             "cliente": "Solve",
             "by": [
-                "Diogo Ribeiro",
-                ", ",
-                "Diogo Sobreira"
+                ["UX/UI","Diogo Ribeiro","https://www.linkedin.com/in/dbgfribeiro/"],
+                ["Front-End","Diogo Sobreira","https://www.linkedin.com/in/diogosobreira/"]
             ],
             "tecs": "ReactJS"
         },
@@ -224,7 +205,9 @@
             "link": "https://aisunsets.com/",
             "cliente": "Internal project",
             "by": [
-                "Bárbara Vieira"
+                ["UX/UI","Angela Laspriella","https://www.linkedin.com/in/angela-laspriella/"],
+                ["Front-End","Bárbara Vieira","https://www.linkedin.com/in/barbaranspv/"]
+
             ],
             "tecs": "Figma, Adobe Illustrator"
         }
@@ -243,13 +226,10 @@
             "link": "http://www.mentorahealth.com/",
             "cliente": "Mentora Health",
             "by": [
-                "Luís Silva",
-                ", ",
-                "Angela Laspriella",
-                ", ",
-                "João Marcelino",
-                ", ",
-                "Miguel Galvão"
+                ["Project Manager","Luís Silva","https://www.linkedin.com/in/luisantoniolds/"],
+                ["UX/UI","Angela Laspriella","https://www.linkedin.com/in/angela-laspriella/"],
+                ["Full-Stack","Miguel Galvão","https://www.linkedin.com/in/miguel-galvão-733a7b199/"],
+                ["Full-Stack","João Marcelino","https://www.linkedin.com/in/joão-marcelino-43b0821b0/"]
             ],
             "tecs": "Firebase, Flutter, Figma, Adobe Illustrator"
         },
@@ -266,9 +246,9 @@
             "link": "https://noytrall.web.app/",
             "cliente": "Noytrall",
             "by": [
-                "Bernardo Prior",
-                ", ",
-                "Francisco Silva"
+                ["Full-Stack","Bernardo Prior","https://www.linkedin.com/in/bernardo-prior/"],
+                ["Full-Stack","Francisco Silva","https://www.linkedin.com/in/francisco-silva-a74634184/"]
+
             ],
             "tecs": "Node, React, Ionic"
         }
@@ -290,7 +270,7 @@
             "link": "https://www.instagram.com/jeknowledgeacademy/",
             "cliente": "Internal project",
             "by": [
-                "Alexandre Pinho"
+                ["Alexandre Pinho","https://www.behance.net/alexandrepinho"]
             ],
             "tecs": "Adobe Illustrator"
         },
@@ -309,7 +289,7 @@
             "link": "https://www.behance.net/gallery/112153635/PortoBC-Brand-Identity-Design",
             "cliente": "Internal project",
             "by": [
-                "Alexandre Pinho"
+                ["Alexandre Pinho","https://www.behance.net/alexandrepinho"]
             ],
             "tecs": "Photoshop, Adobe After Effects, Adobe Illustrator"
         },
@@ -328,21 +308,17 @@
             "link": "https://www.instagram.com/shiftappens/",
             "cliente": "Internal project, in collaboration with the Informatics Engineering Nucleus of the University of Coimbra",
             "by": [
-                "Angela Laspriella",
-                ", ",
-                "Margarida Souto",
-                ", ",
-                "Francisca Laureano",
-                ", ",
-                "André Santos (NEI)",
-                ", "
+                ["Angela Laspriella","https://www.linkedin.com/in/angela-laspriella/"],
+                ["Francisca Laureano","https://www.linkedin.com/in/francisca-laureano-0a5023207/"],
+                ["Margarida Souto","https://www.linkedin.com/in/margarida-souto-684a041ba/"],
+                ["André Santos (NEI)","https://www.linkedin.com/in/andre-ls/"]
             ],
             "tecs": "HTML/CSS, JavaScript, Figma"
         },
         {
             "id": 4,
             "data": "may 2021",
-            "title": "DotWorks 2021",
+            "title": ".works 2021",
             "cover": "https://i.imgur.com/yy4kea6.png",
             "img": [
                 "https://i.imgur.com/xT80WEY.png",
@@ -354,9 +330,8 @@
             "link": "https://www.instagram.com/dotworks21/",
             "cliente": "Internal project",
             "by": [
-                "Inês Galvão",
-                ", ",
-                "Maria Raposo"
+                ["Inês Galvão","https://www.linkedin.com/in/inês-galvão-474a27205/"],
+                ["Maria Raposo","https://www.linkedin.com/in/maria-raposo-2457401ba/"]
             ],
             "tecs": "Figma, Adobe Illustrator, Photoshop, After Effects, InDesign"
         },
@@ -376,9 +351,8 @@
             "link": "https://www.instagram.com/climateclock.coimbra/",
             "cliente": "Internal project, in collaboration with Molecular JE",
             "by": [
-                "Ines Galvão",
-                ", ",
-                "Margarida Souto"
+                ["Inês Galvão","https://www.linkedin.com/in/inês-galvão-474a27205/"],
+                ["Margarida Souto","https://www.linkedin.com/in/margarida-souto-684a041ba/"]
             ],
             "tecs": "Figma, Adobe Illustrator"
         },
@@ -397,9 +371,8 @@
             "link": "https://www.instagram.com/aisunsets/",
             "cliente": "Internal project",
             "by": [
-                "Angela Laspriella",
-                ",",
-                "Francisca Sousa"
+                ["Angela Laspriella","https://www.linkedin.com/in/angela-laspriella/"],
+                ["Francisca Sousa","https://www.behance.net/franciscasousa4"]
             ],
             "tecs": "Figma, Adobe Illustrator"
         }

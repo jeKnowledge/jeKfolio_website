@@ -45,7 +45,7 @@ const Events = () => {
           return (
             <div className="project-info event" key={id}>
 
-              <a href={detail.link} target="_blank"><h1>{detail.title} </h1></a>
+              <a href={detail.link} target="_blank"><h1><u>{detail.title} </u></h1></a>
 
               <div className="project-text events">
 
