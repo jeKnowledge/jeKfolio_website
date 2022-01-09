@@ -7,17 +7,20 @@ const ProjectList = ({field, title}) => {
 
   const [show, setShow]=useState(false);
   const onClick = () => setShow(!show)
+  
+  const ProjectList = ProjectData[field]
+  
   return ( 
    <div className="area">
       <h2 onClick={onClick}>{title}</h2>
       
       { show  && <div className="projects">
+      <ul>
       {
-      ProjectData[field].map(( detail ) => {
+      ProjectList.slice(0).reverse().map(( detail ) => {
 
           return (
-      
-            <div className="project" key={detail.id } >
+            <li className="project" key={detail.id } >
               
                 <Link to={`/projects/${field}/${detail.id}`}>
                   <div className="project_img">
@@ -28,11 +31,13 @@ const ProjectList = ({field, title}) => {
                     <h3>{detail.title || <Skeleton />} </h3>
                   </div>  
                 </Link>
-            </div>
+            </li>
    
           )
         })
       }
+                  </ul>
+
         </div>
         }
         

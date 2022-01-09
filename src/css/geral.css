@@ -114,34 +114,54 @@ a{
 
 /*** FOOTER ***/
 .footer{
-  padding: 2% 4%;
+  padding: 3% 6%;
   margin-top: 10%;
   height:auto;
   background-color: var(--blue);
   display: flex;
   justify-content: space-between;
   align-items: center;
-
 }
 .footer p{
   font-size: 1.1rem;
 }
 .footer-middle{
-  display: flex;
-  align-items: center;
-}
-.footer-middle #jek_logo{
-  margin: 0 1vw;
-}
-.footer-middle a:nth-child(1), .footer-middle a:nth-child(3) {
-  padding-top: 10px;
-}
+text-align: center;}
+
+
 .footer-middle #jek_logo{
   width:3vw;
 } 
+.social{
+  display: flex;
+}
+.footer-adress a .social-img {
+  width: 1.5vw;
+}
+.footer-adress a:nth-child(2){
+  margin:0 3%;
+}
+.footer-middle h1{
+  font-size: 1.3em;
+}
+.footer-middle p{
+  margin-bottom: 5%;
 
-.contacts{
+}
+.footer-middle a{
+  background-color: white;
+  color: black;
+  font-size: 0.8em;
+  font-family: 'Suisse-Int-Thin';
+  padding: 2% 4%;
+  border: none;
+}
+
+.footer-contacts{
   text-align: right;
+}
+.footer-contacts #jek_logo_hor{
+  width:10vw;
 }
 
 @media screen and (max-width: 600px){
@@ -151,25 +171,54 @@ a{
   }
 
   .footer{
-    display: block;
+    flex-wrap: wrap;
     padding: 10% 0;
+    width:100%;
+    align-items: center;
+    justify-content: center;
   }
-  .footer .footer-adress, .footer .contacts{
+  .footer .footer-adress, .footer-contacts{
     text-align: center;
   }
   .footer-middle{
+    order:1
+  }
+  .footer-middle h1{
+    padding: 0 20%;
+    line-height: normal;
+    justify-content: center;
+  }
+  .footer-middle p{
+    margin-bottom: 2%;
+  }
+  .footer-middle a{
+    font-size: 0.6em;
+  }
+
+  .footer-contacts{
+    order:2;
+    margin: 15% 0;
+  }
+  .footer-adress{
+    order:3;
+  }
+  .footer-adress .social{
+    justify-content: center;
+  }
+  .footer-adress a .social-img{
+    width:6vw;
+  }
+  
+  .footer-middle{
     width: 100%;
     justify-content: center;
-    margin: 4vh 0 ;
   }
-  .footer-middle .social {
-    width: 5vw;
-  }
-  .footer-middle #jek_logo{
-    width:10vw;
-    margin: 0 5vw;
-
+  .footer-contacts #jek_logo_hor{
+    width:30vw;
   } 
+
+
+
   #error{
     min-height:80vh ;
   }

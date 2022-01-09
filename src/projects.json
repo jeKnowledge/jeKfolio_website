@@ -1,326 +1,588 @@
 {
-    "websites":[ 
-    { 
-        "id":1,
-        "title":"DotWorks 2021",
-        "cover":"https://i.imgur.com/yy4kea6.png",
-        "img":["https://i.imgur.com/ChQg3MX.png","https://i.imgur.com/bT8axav.png"],
-        "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
-        "link":"http://dotworks2021.jeknowledge.com/",
-        "cliente":"Internal project",
-        "by":["Inês Galvão",", ","Maria Raposo",", ", "Bárbara Vieira",", ", "João Domingues"],
-        "data":"may 2021",
-        "tecs":"HTML/CSS, JavaScript, Django"
-        },
-        { 
-        "id":2,
-        "title":"TEDx Universidade de Coimbra",
-        "cover":"https://i.imgur.com/3C6zPZb.png",
-        "img":["https://i.imgur.com/1kyH4x8.png","https://i.imgur.com/4qH1ocT.png"],
-        "descricao":"TED is a non-profit organization dedicated to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost every topic - from science to business to global issues - in over 100 languages. Meanwhile, independently organized TEDx events help on sharing ideas in communities around the world. Inspired by tradition, but also by innovation, a group of students from different faculties at the University of Coimbra decided to create a TEDx event. jeKnowledge was invited to develop their website, for the third year in a row. In this website you can find all the information about the event, such as the organizing team, speakers, program and partners. And still receives the live broadcast of the event on the homepage." ,
-        "link":"https://www.tedxuniversidadedecoimbra.pt/",
-        "cliente":"TEDx Universidade de Coimbra",
-        "by":["Diogo Ribeiro"],
-        "data":"april 2021",
-        "tecs":"HTML/CSS, JavaScript"
-        },
-        { 
-        "id":3,
-        "title":"Shift APPens 2021",
-        "cover":"https://i.imgur.com/xemOp1S.png",
-        "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png"],
-        "descricao":"Shift APPens is a Hackathon organized with love by jeKnowledge and by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
-        "link":"https://shiftappens.com",
-        "cliente":"Internal project, in collaboration with the Informatics Engineering Nucleus of the University of Coimbra",
-        "by":["Angela Laspriella",", ","Margarida Souto",", ","Francisca Laureano",", ", "Joana Sousa" ],
-        "data":"april 2021",
-        "tecs":"HTML/CSS, JavaScript, Figma"
-        },
-        { 
-        "id":4,
-        "title":"jeKash",
-        "cover":"https://i.imgur.com/l8ImUx8.png",
-        "img":["https://i.imgur.com/iKGVyHu.png","https://i.imgur.com/HrNHfwI.jpg"],
-        "descricao":"We created this internal platform in order to simplify the payment of debts between members of jeKnowledge. jeKash lets users create debts, check what they owe and even go through the total amount of what each Department owes.",
-        "link":"https://jekash.jeknowledge.com/",
-        "cliente":"Internal project",
-        "by":["Bárbara Vieira",", ", "Margarida Souto","Eduardo Nunes",", ","Francisco Silva",", ","Gonçalo Correia",", ","Guilherme Gaspar",", ","Luís Silva"],
-        "data":"april 2021",
-        "tecs":"HTML/CSS, JavaScript"
+    "websites": [
+        {
+            "id": 1,
+            "data": "january 2021",
+            "title": "Ponto Vermelho",
+            "cover": "https://i.imgur.com/AMPEvDi.png",
+            "img": [
+                "https://i.imgur.com/gmaJepA.png",
+                "https://i.imgur.com/NkWebhF.png"
+            ],
+            "descricao": " 'Ponto Vermelho' is a store from Braga Delegation of the Portuguese Red Cross that receives, sorts, and distributes first and second-hand goods. The distribution is done free of charge to people and families with greater socioeconomic difficulties in the municipality of Braga and through sales at symbolic prices to the general public. We created this platform in order to help the store to carry out these transactions. Customers, whether they are members of a particular household or representatives of an institution, register on the platform and after approval can place their orders, such as adult and children's clothing, footwear, baby items, toys, books, home textiles, etc.",
+            "link": "https://ponto-vermelho.jeknowledge.com/",
+            "cliente": "Delegação de Braga da Cruz Vermelha Portuguesa",
+            "by": [
+                "Diogo Ribeiro",
+                ", ",
+                "João Domingues"
+            ],
+            "tecs": "HTML/CSS,JavaScript, Django"
         },
         {
-        "id":5,
-        "title":"ColorADD Social",
-        "cover":"https://i.imgur.com/PUZSnW0.png",
-        "img":["https://i.imgur.com/Gp3tY4M.png","https://i.imgur.com/8E1U8iM.png"],
-        "descricao": "ColorADD.Social is a non-profit association dedicated to promoting the social integration of people with difficulty in color identification, in particular those with color blindness, through the adoption of the ColorADD code. This website serves as support for ColorADD.Social's mission, which aims to alert the community in general to the cause of color-blindness, with a particular focus on the school community, by training, supporting and socially monitoring educational and inclusion projects. To this end, we have implemented simulations so that all users can interact and experience the different color-blind visions, along with detailed information regarding the awareness actions of this organization." ,
-        "link":"https://www.coloraddsocial.org/", 
-        "cliente":"ColorADD",
-        "by":["Diogo Ribeiro",", ","Bernardo Prior"],
-        "data":"february 2021",
-        "tecs":"HTML/CSS, JavaScript, Django"
+            "id": 2,
+            "data": "january 2021",
+            "title": "Porto Blockchain Conference 2021",
+            "cover": "https://i.imgur.com/6OwwQ1N.png",
+            "img": [
+                "https://i.imgur.com/huAt1zo.png",
+                "https://i.imgur.com/VvXU0VW.png"
+            ],
+            "descricao": "Porto.BC will be the biggest conference dedicated to blockchain and cryptocurrencies .to be broadcasted from Portugal to any place in the world in 2021. During two full days, we will create the perfect environment for learning and discussing several subjects around this technology with amazing speakers. The blockchain technologies are having a significant impact on our industries, but how? In this event we will have incredible people to share their thoughts with us. Among them are relevant engineers, developers, economists, politicians, lawyers and more! Our exceptional keynote speakers will provide you with tools to make yourself and your organization ready for the future, so you can learn about new technologies and their impact.",
+            "link": "https://portobc.com",
+            "cliente": "Internal project",
+            "by": [
+                "Alexandre Pinho",
+                ", ",
+                "Diogo Sobreira"
+            ],
+            "tecs": "HTML/CSS, JavaScript"
         },
         {
-        "id":6,
-        "title":"Porto Blockchain Conference 2021",
-        "cover":"https://i.imgur.com/6OwwQ1N.png",
-        "img":["https://i.imgur.com/huAt1zo.png","https://i.imgur.com/VvXU0VW.png"],
-        "descricao":"Porto.BC will be the biggest conference dedicated to blockchain and cryptocurrencies .to be broadcasted from Portugal to any place in the world in 2021. During two full days, we will create the perfect environment for learning and discussing several subjects around this technology with amazing speakers. The blockchain technologies are having a significant impact on our industries, but how? In this event we will have incredible people to share their thoughts with us. Among them are relevant engineers, developers, economists, politicians, lawyers and more! Our exceptional keynote speakers will provide you with tools to make yourself and your organization ready for the future, so you can learn about new technologies and their impact." ,
-        "link":"https://portobc.com",
-        "cliente":"Internal project",
-        "by":["Alexandre Pinho",", ","Diogo Sobreira"],
-        "data":"january 2021",
-        "tecs":"HTML/CSS, JavaScript"
+            "id": 3,
+            "data": "february 2021",
+            "title": "ColorADD Social",
+            "cover": "https://i.imgur.com/PUZSnW0.png",
+            "img": [
+                "https://i.imgur.com/Gp3tY4M.png",
+                "https://i.imgur.com/8E1U8iM.png"
+            ],
+            "descricao": "ColorADD.Social is a non-profit association dedicated to promoting the social integration of people with difficulty in color identification, in particular those with color blindness, through the adoption of the ColorADD code. This website serves as support for ColorADD.Social's mission, which aims to alert the community in general to the cause of color-blindness, with a particular focus on the school community, by training, supporting and socially monitoring educational and inclusion projects. To this end, we have implemented simulations so that all users can interact and experience the different color-blind visions, along with detailed information regarding the awareness actions of this organization.",
+            "link": "https://www.coloraddsocial.org/",
+            "cliente": "ColorADD",
+            "by": [
+                "Diogo Ribeiro",
+                ", ",
+                "Bernardo Prior"
+            ],
+            "tecs": "HTML/CSS, JavaScript, Django"
         },
         {
-        "id":7,
-        "title":"Ponto Vermelho",
-        "cover":"https://i.imgur.com/AMPEvDi.png",
-        "img":["https://i.imgur.com/gmaJepA.png","https://i.imgur.com/NkWebhF.png"],
-        "descricao":" 'Ponto Vermelho' is a store from Braga Delegation of the Portuguese Red Cross that receives, sorts, and distributes first and second-hand goods. The distribution is done free of charge to people and families with greater socioeconomic difficulties in the municipality of Braga and through sales at symbolic prices to the general public. We created this platform in order to help the store to carry out these transactions. Customers, whether they are members of a particular household or representatives of an institution, register on the platform and after approval can place their orders, such as adult and children's clothing, footwear, baby items, toys, books, home textiles, etc.",
-        "link":"https://ponto-vermelho.jeknowledge.com/",
-        "cliente":"Delegação de Braga da Cruz Vermelha Portuguesa",
-        "by":["Diogo Ribeiro",", ", "João Domingues" ],
-        "data":"january 2021",
-        "tecs":"HTML/CSS,JavaScript, Django"
+            "id": 4,
+            "data": "april 2021",
+            "title": "jeKash",
+            "cover": "https://i.imgur.com/l8ImUx8.png",
+            "img": [
+                "https://i.imgur.com/iKGVyHu.png",
+                "https://i.imgur.com/HrNHfwI.jpg"
+            ],
+            "descricao": "We created this internal platform in order to simplify the payment of debts between members of jeKnowledge. jeKash lets users create debts, check what they owe and even go through the total amount of what each Department owes.",
+            "link": "https://jekash.jeknowledge.com/",
+            "cliente": "Internal project",
+            "by": [
+                "Bárbara Vieira",
+                ", ",
+                "Margarida Souto",
+                "Eduardo Nunes",
+                ", ",
+                "Francisco Silva",
+                ", ",
+                "Gonçalo Correia",
+                ", ",
+                "Guilherme Gaspar",
+                ", ",
+                "Luís Silva"
+            ],
+            "tecs": "HTML/CSS, JavaScript"
         },
         {
-        "id":8,
-        "title":"Podium",
-        "cover":"https://i.imgur.com/JAhULLH.png",
-        "img":["https://i.imgur.com/hKjcGHZ.png","https://i.imgur.com/4rgaL3o.png"],
-        "descricao":"This project began as an idea of one member of jeKnowledge (Filipe Lopes), that wanted to create a website / app that could manage sports competitions and results. A team was gathered to help with producing a working MVP.",
-        "link":" ",
-        "cliente":"Internal project",
-        "by":["Carla Gomes",", ", "Filipe Lopes",", ", "Miguel Galvão",", ", "Francisco Silva",", ", "Luís Silva"],
-        "data":"june 2020",
-        "tecs":"React, Django Node"
+            "id": 5,
+            "data": "april 2021",
+            "title": "Shift APPens 2021",
+            "cover": "https://i.imgur.com/xemOp1S.png",
+            "img": [
+                "https://i.imgur.com/O6ToivS.png",
+                "https://i.imgur.com/uAqAPdy.png"
+            ],
+            "descricao": "Shift APPens is a Hackathon organized with love by jeKnowledge and by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+            "link": "https://shiftappens.com",
+            "cliente": "Internal project, in collaboration with the Informatics Engineering Nucleus of the University of Coimbra",
+            "by": [
+                "Angela Laspriella",
+                ", ",
+                "Margarida Souto",
+                ", ",
+                "Francisca Laureano",
+                ", ",
+                "Joana Sousa"
+            ],
+            "tecs": "HTML/CSS, JavaScript, Figma"
         },
         {
-        "id":9,
-        "title":"Climate Clock",
-        "cover":"https://i.imgur.com/YKFrzyi.png",
-        "img":["https://i.imgur.com/8jSBd6Q.png","https://i.imgur.com/lg26hQJ.png"],
-        "descricao":"The Climate Clock is a graph that highlights the most important deadline of all: the World's. Its time indicates the time window to avoid that the most nefarious effects regarding global warming become irreversible.  The clock shows the remaining time until we use up the 'carbon budget', that is, the maximum amount of carbon we can burn so that there's a 67% chance we stay under the 1.5º C above the average temperature prior to the Industrial Revolution mark. This mark corresponds to the red line drawn by scientists, defined as a 'no return point', that is, the point from which positive retroaction mecanisms that will disturb the climate beyond human intervention will take place.",
-        "link":"https://climateclock.pt/",
-        "cliente":"Internal project, in collaboration with Molecular JE",
-        "by":["Ines Galvão",", ", "Margarida Souto"],
-        "data":"september 2021",
-        "tecs":"HTML/CSS, JavaScript"
+            "id": 6,
+            "data": "april 2021",
+            "title": "TEDx Universidade de Coimbra",
+            "cover": "https://i.imgur.com/3C6zPZb.png",
+            "img": [
+                "https://i.imgur.com/1kyH4x8.png",
+                "https://i.imgur.com/4qH1ocT.png"
+            ],
+            "descricao": "TED is a non-profit organization dedicated to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost every topic - from science to business to global issues - in over 100 languages. Meanwhile, independently organized TEDx events help on sharing ideas in communities around the world. Inspired by tradition, but also by innovation, a group of students from different faculties at the University of Coimbra decided to create a TEDx event. jeKnowledge was invited to develop their website, for the third year in a row. In this website you can find all the information about the event, such as the organizing team, speakers, program and partners. And still receives the live broadcast of the event on the homepage.",
+            "link": "https://www.tedxuniversidadedecoimbra.pt/",
+            "cliente": "TEDx Universidade de Coimbra",
+            "by": [
+                "Diogo Ribeiro"
+            ],
+            "tecs": "HTML/CSS, JavaScript"
         },
         {
-        "id":10,
-        "title":"Solve",
-        "cover":"https://i.imgur.com/P01GTh3.png",
-        "img":["https://i.imgur.com/SPyMgLv.png","https://i.imgur.com/cnikv9u.png"],
-        "descricao":"This project consists on the development of a website for the Junior Iniciative Solve.",
-        "link":"https://www.solveportugal.com/",
-        "cliente":"Solve",
-        "by":["Diogo Ribeiro",", ", "Diogo Sobreira"],
-        "data":"october 2021",
-        "tecs":"ReactJS"
+            "id": 7,
+            "data": "may 2021",
+            "title": "DotWorks 2021",
+            "cover": "https://i.imgur.com/yy4kea6.png",
+            "img": [
+                "https://i.imgur.com/ChQg3MX.png",
+                "https://i.imgur.com/bT8axav.png"
+            ],
+            "descricao": "Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
+            "link": "http://dotworks2021.jeknowledge.com/",
+            "cliente": "Internal project",
+            "by": [
+                "Inês Galvão",
+                ", ",
+                "Maria Raposo",
+                ", ",
+                "Bárbara Vieira",
+                ", ",
+                "João Domingues"
+            ],
+            "tecs": "HTML/CSS, JavaScript, Django"
         },
-        { 
-            "id":11,
-            "title":"AI Sunsets 2021",
+        {
+            "id": 8,
+            "data": "june 2021",
+            "title": "Podium",
+            "cover": "https://i.imgur.com/JAhULLH.png",
+            "img": [
+                "https://i.imgur.com/hKjcGHZ.png",
+                "https://i.imgur.com/4rgaL3o.png"
+            ],
+            "descricao": "This project began as an idea of one member of jeKnowledge (Filipe Lopes), that wanted to create a website / app that could manage sports competitions and results. A team was gathered to help with producing a working MVP.",
+            "link": " ",
+            "cliente": "Internal project",
+            "by": [
+                "Carla Gomes",
+                ", ",
+                "Filipe Lopes",
+                ", ",
+                "Miguel Galvão",
+                ", ",
+                "Francisco Silva",
+                ", ",
+                "Luís Silva"
+            ],
+            "tecs": "React, Django Node"
+        },
+        {
+            "id": 9,
+            "data": "september 2021",
+            "title": "Climate Clock",
+            "cover": "https://i.imgur.com/YKFrzyi.png",
+            "img": [
+                "https://i.imgur.com/8jSBd6Q.png",
+                "https://i.imgur.com/lg26hQJ.png"
+            ],
+            "descricao": "The Climate Clock is a graph that highlights the most important deadline of all: the World's. Its time indicates the time window to avoid that the most nefarious effects regarding global warming become irreversible.  The clock shows the remaining time until we use up the 'carbon budget', that is, the maximum amount of carbon we can burn so that there's a 67% chance we stay under the 1.5º C above the average temperature prior to the Industrial Revolution mark. This mark corresponds to the red line drawn by scientists, defined as a 'no return point', that is, the point from which positive retroaction mecanisms that will disturb the climate beyond human intervention will take place.",
+            "link": "https://climateclock.pt/",
+            "cliente": "Internal project, in collaboration with Molecular JE",
+            "by": [
+                "Ines Galvão",
+                ", ",
+                "Margarida Souto"
+            ],
+            "tecs": "HTML/CSS, JavaScript"
+        },
+        {
+            "id": 10,
+            "data": "october 2021",
+            "title": "Solve",
+            "cover": "https://i.imgur.com/P01GTh3.png",
+            "img": [
+                "https://i.imgur.com/SPyMgLv.png",
+                "https://i.imgur.com/cnikv9u.png"
+            ],
+            "descricao": "This project consists on the development of a website for the Junior Iniciative Solve.",
+            "link": "https://www.solveportugal.com/",
+            "cliente": "Solve",
+            "by": [
+                "Diogo Ribeiro",
+                ", ",
+                "Diogo Sobreira"
+            ],
+            "tecs": "ReactJS"
+        },
+        {
+            "id": 11,
+            "data": "october 2021",
+            "title": "AI Sunsets 2021",
             "cover": "https://i.imgur.com/6v6TkTA.png",
-            "img":["https://i.imgur.com/JqI8tjZ.png","https://i.imgur.com/6XHXcXl.png"],
-            "descricao":"AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field." ,
-            "link":"https://aisunsets.com/",
-            "cliente":"Internal project",
-            "by":["Bárbara Vieira"],
-            "data":"october 2021",
-            "tecs":"Figma, Adobe Illustrator"
-            }
+            "img": [
+                "https://i.imgur.com/JqI8tjZ.png",
+                "https://i.imgur.com/6XHXcXl.png"
+            ],
+            "descricao": "AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field.",
+            "link": "https://aisunsets.com/",
+            "cliente": "Internal project",
+            "by": [
+                "Bárbara Vieira"
+            ],
+            "tecs": "Figma, Adobe Illustrator"
+        }
     ],
-
-    "software":[ 
+    "software": [
         {
-            "id":1,
-            "title":"Mentora Health",
-            "cover":"https://i.imgur.com/5ShiRNG.jpg",
-            "img":["https://i.imgur.com/5ShiRNG.jpg","https://i.imgur.com/x5cC2BW.png"],
-            "descricao":"Project in which we were responsible for the rebranding and where we are currently working together with Mentora Health's team in the development of an app that helps the lifes of Oncology patients.",
-            "link":"http://www.mentorahealth.com/",
-            "cliente":"Mentora Health",
-            "by":["Luís Silva",", ", "Angela Laspriella",", ", "João Marcelino",", ", "Miguel Galvão"],
-            "data":"november 2020",
-            "tecs":"Firebase, Flutter, Figma, Adobe Illustrator"
-        }, 
-        {
-            "id":2,
-            "title":"Noytrall",
-            "cover":"https://i.imgur.com/fKwsLPm.png",
-            "img":["https://i.imgur.com/ZF5kFfv.png","https://i.imgur.com/JyBy8i8.png"],
-            "descricao":"Nøytrall offers a guest consumption monitoring system that allows hotels to create a new tariff paradigm, creating a sustainable tariff model. It will be possible to separate guest consumption from the hotel's base price, offering transparency and fairness in rates. Guests pay for what they consume. Through an app, guests can consult their consumption and interact with an education and gamification system that promotes the adoption of good sustainability practices, rewarding them with a set of experiences or sustainable products.",
-            "link":"https://noytrall.web.app/",
-            "cliente":"Noytrall",
-            "by":["Bernardo Prior",", ", "Francisco Silva"],
-            "data":"2020",
-            "tecs":"Node, React, Ionic"
-        }
-        ],
-
-    "design":[ 
-        { 
-            "id":1,
-            "title":"DotWorks 2021",
-            "cover":"https://i.imgur.com/yy4kea6.png",
-            "img":["https://i.imgur.com/xT80WEY.png","https://i.imgur.com/hctyTuR.png", "https://i.imgur.com/ChQg3MX.png", "https://i.imgur.com/BynmuYx.png"],
-            "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
-            "link":"https://www.instagram.com/dotworks21/",
-            "cliente":"Internal project",
-            "by":["Inês Galvão",", ","Maria Raposo"],
-            "data":"may 2021",
-            "tecs":"Figma, Adobe Illustrator, Photoshop, After Effects, InDesign"
-        },
-        { 
-        "id":2,
-        "title":"Shift APPens 2021",
-        "cover":"https://i.imgur.com/xemOp1S.png",
-        "img":["https://i.imgur.com/O6ToivS.png","https://i.imgur.com/uAqAPdy.png","https://i.imgur.com/FeUYw8Z.png","https://i.imgur.com/9iMyY3l.png"],
-        "descricao":"Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
-        "link":"https://www.instagram.com/shiftappens/",
-        "cliente":"Internal project, in collaboration with the Informatics Engineering Nucleus of the University of Coimbra",
-        "by":["Angela Laspriella",", ","Margarida Souto",", ","Francisca Laureano",", ","André Santos (NEI)",", "],
-        "data":"april 2021",
-        "tecs":"HTML/CSS, JavaScript, Figma"
-        },
-        { 
-        "id":3,
-        "title":"Porto Blockchain Conference 2021",
-        "cover": "https://i.imgur.com/6OwwQ1N.png",
-        "img":["https://i.imgur.com/yLldJRG.png","https://i.imgur.com/VvXU0VW.png","https://i.imgur.com/tItTPxf.png", "https://i.imgur.com/huAt1zo.png"],
-        "descricao":"Porto.BC will be the biggest conference dedicated to blockchain and cryptocurrencies .to be broadcasted from Portugal to any place in the world in 2021. During two full days, we will create the perfect environment for learning and discussing several subjects around this technology with amazing speakers. The blockchain technologies are having a significant impact on our industries, but how? In this event we will have incredible people to share their thoughts with us. Among them are relevant engineers, developers, economists, politicians, lawyers and more! Our exceptional keynote speakers will provide you with tools to make yourself and your organization ready for the future, so you can learn about new technologies and their impact." ,
-        "link":"https://www.behance.net/gallery/112153635/PortoBC-Brand-Identity-Design",
-        "cliente":"Internal project",
-        "by":["Alexandre Pinho"],
-        "data":"january 2021",
-        "tecs":"Photoshop, Adobe After Effects, Adobe Illustrator"
-        },
-        { 
-        "id":4,
-        "title":"jeK Academy 2020",
-        "cover": "https://i.imgur.com/o59NNhm.png",
-        "img":["https://i.imgur.com/d6R4mwx.jpg","https://i.imgur.com/qczmP0d.png","https://i.imgur.com/qCrlHu2.png", "https://i.imgur.com/qCrlHu2.png"],
-        "descricao":"jeKnowledge Academy is an event dedicated to High School students where they have the opportunity to learn things like creating their own personal website, developing a game and also learning how to build electronic circuits. All these experiences have several objectives: to make up for the absence of these themes in High school education curricular plans, to show the variety of things that can be built with code and also to help answer the question “What degree do I want to take at the university?”" ,
-        "link":"https://www.instagram.com/jeknowledgeacademy/",
-        "cliente":"Internal project",
-        "by":["Alexandre Pinho"],
-        "data":"july 2020",
-        "tecs":"Adobe Illustrator"
-        },
-        { 
-        "id":5,
-        "title":"AI Sunsets 2021",
-        "cover": "https://i.imgur.com/6v6TkTA.png",
-        "img":["https://i.imgur.com/NX5PTLp.jpg","https://i.imgur.com/7BKaJ96.jpg","https://i.imgur.com/g3uTt2O.jpg", "https://i.imgur.com/Rdpd6Dj.jpg"],
-        "descricao":"AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field." ,
-        "link":"https://www.instagram.com/aisunsets/",
-        "cliente":"Internal project",
-        "by":["Angela Laspriella", ",","Francisca Sousa"],
-        "data":"october 2021",
-        "tecs":"Figma, Adobe Illustrator"
-        },
-        {
-        "id":6,
-        "title":"Climate Clock",
-        "cover":"https://i.imgur.com/YKFrzyi.png",
-        "img":["https://i.imgur.com/YKFrzyi.png","https://i.imgur.com/6XFSebA.png","https://i.imgur.com/8waqyhQ.png", "https://media.giphy.com/media/Hhd04dRMI2RsoxCatO/giphy.gif"],
-        "descricao":"The Climate Clock is a graph that highlights the most important deadline of all: the World's. Its time indicates the time window to avoid that the most nefarious effects regarding global warming become irreversible.  The clock shows the remaining time until we use up the 'carbon budget', that is, the maximum amount of carbon we can burn so that there's a 67% chance we stay under the 1.5º C above the average temperature prior to the Industrial Revolution mark. This mark corresponds to the red line drawn by scientists, defined as a 'no return point', that is, the point from which positive retroaction mecanisms that will disturb the climate beyond human intervention will take place.",
-        "link":"https://www.instagram.com/climateclock.coimbra/",
-        "cliente":"Internal project, in collaboration with Molecular JE",
-        "by":["Ines Galvão",", ", "Margarida Souto"],
-        "data":"september 2021",
-        "tecs":"Figma, Adobe Illustrator"
-        }
-    ],"eventos":[
-        { 
-            "id":1,
-            "title":"Shift APPens",
-            "cover":"https://i.imgur.com/8QG0cdw.png",
-            "img":[
-                ["https://i.imgur.com/UcswF5d.png","Shift APPens 2021"],
-                ["https://i.imgur.com/e69y0zM.png","Shift APPens 2021"],
-                ["https://i.imgur.com/k2bsIlh.png", "Shift APPens 2019"],
-                ["https://i.imgur.com/8QG0cdw.png","Shift APPens 2019"],
-                ["https://i.imgur.com/ip28Fqb.jpg","Shift APPens 2018"],
-                ["https://i.imgur.com/71QBMQs.jpg", "Shidt APPEns 2017"],
-                ["https://i.imgur.com/WIjW4F0.jpg", "Shift APPens 2016"],
-                ["https://i.imgur.com/GEF31Cp.jpg", "Shift APPens 2015"],
-                ["https://i.imgur.com/UG7T8D5.jpg", "Shift APPens 2014"]
+            "id": 1,
+            "data": "november 2020",
+            "title": "Mentora Health",
+            "cover": "https://i.imgur.com/5ShiRNG.jpg",
+            "img": [
+                "https://i.imgur.com/5ShiRNG.jpg",
+                "https://i.imgur.com/x5cC2BW.png"
             ],
-            "descricao":"Shift APPens is a Hackathon organized with love by jeKnowledge and by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
-            "link":"https://www.instagram.com/shiftappens/",
-            "cliente":"",
-            "data":"2014 - present"
+            "descricao": "Project in which we were responsible for the rebranding and where we are currently working together with Mentora Health's team in the development of an app that helps the lifes of Oncology patients.",
+            "link": "http://www.mentorahealth.com/",
+            "cliente": "Mentora Health",
+            "by": [
+                "Luís Silva",
+                ", ",
+                "Angela Laspriella",
+                ", ",
+                "João Marcelino",
+                ", ",
+                "Miguel Galvão"
+            ],
+            "tecs": "Firebase, Flutter, Figma, Adobe Illustrator"
         },
-        { 
-            "id":2,
-            "title":"AI Sunsets",
-            "cover":"https://i.imgur.com/c79ZPJ6.jpg",
-            "img":[
-                ["https://i.imgur.com/SZY0wnm.jpg","AI Sunsets 2021"],
-                ["https://i.imgur.com/MzPxRgG.jpg","AI Sunsets 2021"],
-                ["https://i.imgur.com/7RCozES.jpg","AI Sunsets 2019"],
-                ["https://i.imgur.com/KxSyUSg.jpg","AI Sunsets 2019"]
+        {
+            "id": 2,
+            "data": "february 2021",
+            "title": "Noytrall",
+            "cover": "https://i.imgur.com/fKwsLPm.png",
+            "img": [
+                "https://i.imgur.com/ZF5kFfv.png",
+                "https://i.imgur.com/JyBy8i8.png"
+            ],
+            "descricao": "Nøytrall offers a guest consumption monitoring system that allows hotels to create a new tariff paradigm, creating a sustainable tariff model. It will be possible to separate guest consumption from the hotel's base price, offering transparency and fairness in rates. Guests pay for what they consume. Through an app, guests can consult their consumption and interact with an education and gamification system that promotes the adoption of good sustainability practices, rewarding them with a set of experiences or sustainable products.",
+            "link": "https://noytrall.web.app/",
+            "cliente": "Noytrall",
+            "by": [
+                "Bernardo Prior",
+                ", ",
+                "Francisco Silva"
+            ],
+            "tecs": "Node, React, Ionic"
+        }
+
+    ],
+    "design": [
+        {
+            "id": 1,
+            "data": "july 2020",
+            "title": "jeK Academy 2020",
+            "cover": "https://i.imgur.com/o59NNhm.png",
+            "img": [
+                "https://i.imgur.com/d6R4mwx.jpg",
+                "https://i.imgur.com/qczmP0d.png",
+                "https://i.imgur.com/qCrlHu2.png",
+                "https://i.imgur.com/wJOWlZG.png"
+            ],
+            "descricao": "jeKnowledge Academy is an event dedicated to High School students where they have the opportunity to learn things like creating their own personal website, developing a game and also learning how to build electronic circuits. All these experiences have several objectives: to make up for the absence of these themes in High school education curricular plans, to show the variety of things that can be built with code and also to help answer the question “What degree do I want to take at the university?”",
+            "link": "https://www.instagram.com/jeknowledgeacademy/",
+            "cliente": "Internal project",
+            "by": [
+                "Alexandre Pinho"
+            ],
+            "tecs": "Adobe Illustrator"
+        },
+        {
+            "id": 2,
+            "data": "january 2021",
+            "title": "Porto Blockchain Conference 2021",
+            "cover": "https://i.imgur.com/6OwwQ1N.png",
+            "img": [
+                "https://i.imgur.com/yLldJRG.png",
+                "https://i.imgur.com/VvXU0VW.png",
+                "https://i.imgur.com/tItTPxf.png",
+                "https://i.imgur.com/huAt1zo.png"
+            ],
+            "descricao": "Porto.BC will be the biggest conference dedicated to blockchain and cryptocurrencies .to be broadcasted from Portugal to any place in the world in 2021. During two full days, we will create the perfect environment for learning and discussing several subjects around this technology with amazing speakers. The blockchain technologies are having a significant impact on our industries, but how? In this event we will have incredible people to share their thoughts with us. Among them are relevant engineers, developers, economists, politicians, lawyers and more! Our exceptional keynote speakers will provide you with tools to make yourself and your organization ready for the future, so you can learn about new technologies and their impact.",
+            "link": "https://www.behance.net/gallery/112153635/PortoBC-Brand-Identity-Design",
+            "cliente": "Internal project",
+            "by": [
+                "Alexandre Pinho"
+            ],
+            "tecs": "Photoshop, Adobe After Effects, Adobe Illustrator"
+        },
+        {
+            "id": 3,
+            "data": "april 2021",
+            "title": "Shift APPens 2021",
+            "cover": "https://i.imgur.com/xemOp1S.png",
+            "img": [
+                "https://i.imgur.com/O6ToivS.png",
+                "https://i.imgur.com/uAqAPdy.png",
+                "https://i.imgur.com/FeUYw8Z.png",
+                "https://i.imgur.com/9iMyY3l.png"
+            ],
+            "descricao": "Shift APPens is a Hackathon organized with love by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra) and by jeKnowledge (Faculty of Sciences and Technology of University of Coimbra’s junior company), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+            "link": "https://www.instagram.com/shiftappens/",
+            "cliente": "Internal project, in collaboration with the Informatics Engineering Nucleus of the University of Coimbra",
+            "by": [
+                "Angela Laspriella",
+                ", ",
+                "Margarida Souto",
+                ", ",
+                "Francisca Laureano",
+                ", ",
+                "André Santos (NEI)",
+                ", "
+            ],
+            "tecs": "HTML/CSS, JavaScript, Figma"
+        },
+        {
+            "id": 4,
+            "data": "may 2021",
+            "title": "DotWorks 2021",
+            "cover": "https://i.imgur.com/yy4kea6.png",
+            "img": [
+                "https://i.imgur.com/xT80WEY.png",
+                "https://i.imgur.com/hctyTuR.png",
+                "https://i.imgur.com/ChQg3MX.png",
+                "https://i.imgur.com/BynmuYx.png"
+            ],
+            "descricao": "Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
+            "link": "https://www.instagram.com/dotworks21/",
+            "cliente": "Internal project",
+            "by": [
+                "Inês Galvão",
+                ", ",
+                "Maria Raposo"
+            ],
+            "tecs": "Figma, Adobe Illustrator, Photoshop, After Effects, InDesign"
+        },
+
+        {
+            "id": 5,
+            "data": "september 2021",
+            "title": "Climate Clock",
+            "cover": "https://i.imgur.com/YKFrzyi.png",
+            "img": [
+                "https://i.imgur.com/YKFrzyi.png",
+                "https://i.imgur.com/6XFSebA.png",
+                "https://i.imgur.com/8waqyhQ.png",
+                "https://media.giphy.com/media/Hhd04dRMI2RsoxCatO/giphy.gif"
+            ],
+            "descricao": "The Climate Clock is a graph that highlights the most important deadline of all: the World's. Its time indicates the time window to avoid that the most nefarious effects regarding global warming become irreversible.  The clock shows the remaining time until we use up the 'carbon budget', that is, the maximum amount of carbon we can burn so that there's a 67% chance we stay under the 1.5º C above the average temperature prior to the Industrial Revolution mark. This mark corresponds to the red line drawn by scientists, defined as a 'no return point', that is, the point from which positive retroaction mecanisms that will disturb the climate beyond human intervention will take place.",
+            "link": "https://www.instagram.com/climateclock.coimbra/",
+            "cliente": "Internal project, in collaboration with Molecular JE",
+            "by": [
+                "Ines Galvão",
+                ", ",
+                "Margarida Souto"
+            ],
+            "tecs": "Figma, Adobe Illustrator"
+        },
+        {
+            "id": 6,
+            "data": "october 2021",
+            "title": "AI Sunsets 2021",
+            "cover": "https://i.imgur.com/6v6TkTA.png",
+            "img": [
+                "https://i.imgur.com/NX5PTLp.jpg",
+                "https://i.imgur.com/7BKaJ96.jpg",
+                "https://i.imgur.com/g3uTt2O.jpg",
+                "https://i.imgur.com/Rdpd6Dj.jpg"
+            ],
+            "descricao": "AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field.",
+            "link": "https://www.instagram.com/aisunsets/",
+            "cliente": "Internal project",
+            "by": [
+                "Angela Laspriella",
+                ",",
+                "Francisca Sousa"
+            ],
+            "tecs": "Figma, Adobe Illustrator"
+        }
+    ],
+    "eventos": [
+        {
+            "id": 1,
+            "title": "Shift APPens",
+            "cover": "https://i.imgur.com/8QG0cdw.png",
+            "img": [
+                [
+                    "https://i.imgur.com/UcswF5d.png",
+                    "Shift APPens 2021"
                 ],
-            "descricao":"AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field.",
-            "link":"https://aisunsets.com/",
-            "cliente":" ",
-            "data":"2019 - present"
-        },
-        { 
-            "id":3,
-            "title":"Lime Conference",
-            "cover":"https://i.imgur.com/R6mzhaf.jpg",
-            "img":[
-                ["https://i.imgur.com/9pgiDJ4.jpg", "Lime Conference 2021"],
-                ["https://i.imgur.com/DFJDVa5.jpg","Lime Conference 2020"],
-                ["https://i.imgur.com/kcL6Uc9.jpg","Lime Conference 2020"],
-                ["https://i.imgur.com/jcjj0Jv.jpg", "Lime Conference 2020"],
-                ["https://i.imgur.com/z9DxbCK.jpg","Lime Conference 2019"],
-                ["https://i.imgur.com/19gC0w9.jpg","Lime Conference 2019"]
+                [
+                    "https://i.imgur.com/e69y0zM.png",
+                    "Shift APPens 2021"
+                ],
+                [
+                    "https://i.imgur.com/k2bsIlh.png",
+                    "Shift APPens 2019"
+                ],
+                [
+                    "https://i.imgur.com/8QG0cdw.png",
+                    "Shift APPens 2019"
+                ],
+                [
+                    "https://i.imgur.com/ip28Fqb.jpg",
+                    "Shift APPens 2018"
+                ],
+                [
+                    "https://i.imgur.com/71QBMQs.jpg",
+                    "Shidt APPEns 2017"
+                ],
+                [
+                    "https://i.imgur.com/WIjW4F0.jpg",
+                    "Shift APPens 2016"
+                ],
+                [
+                    "https://i.imgur.com/GEF31Cp.jpg",
+                    "Shift APPens 2015"
+                ],
+                [
+                    "https://i.imgur.com/UG7T8D5.jpg",
+                    "Shift APPens 2014"
+                ]
             ],
-            "descricao":"Lime Conference in an event that targets the solution of problems through design thinking and problem solving techniques, which motivate creativity and innovation. The main goal is to focus on inscreasingly used methodologies to better develop and smartly use human skills.",
-            "link":"https://www.limeconf.com/",
-            "cliente":" ",
-            "data":"2019 - present"
+            "descricao": "Shift APPens is a Hackathon organized with love by jeKnowledge and by NEI/AAC (Informatics Students Nucleus from Academic Association of Coimbra), that brings students and workers from all over the country to the city of Coimbra. Participants have 48 hours to create an application, defending it in a final pitch, in front of a carefully chosen jury. We aim to promote a healthy competition and exchange knowledge from the tech world amongst the participants, all in a relaxed environment. We gather developers, designers and entrepreneurs of different technological fields, from every corner of the country.",
+            "link": "https://www.instagram.com/shiftappens/",
+            "cliente": "",
+            "data": "2014 - present"
         },
-        { 
-            "id":4,
-            "title":"jeK Academy",
+        {
+            "id": 2,
+            "title": "AI Sunsets",
+            "cover": "https://i.imgur.com/c79ZPJ6.jpg",
+            "img": [
+                [
+                    "https://i.imgur.com/SZY0wnm.jpg",
+                    "AI Sunsets 2021"
+                ],
+                [
+                    "https://i.imgur.com/MzPxRgG.jpg",
+                    "AI Sunsets 2021"
+                ],
+                [
+                    "https://i.imgur.com/7RCozES.jpg",
+                    "AI Sunsets 2019"
+                ],
+                [
+                    "https://i.imgur.com/KxSyUSg.jpg",
+                    "AI Sunsets 2019"
+                ]
+            ],
+            "descricao": "AI sunsets is a cycle of high-level sessions that brings AI enthusiasts together and allows them to share their insights, experience, and ideas. It’s a great opportunity to further develop one’s knowledge about artificial intelligence and to connect to other connoisseurs in this field.",
+            "link": "https://aisunsets.com/",
+            "cliente": " ",
+            "data": "2019 - present"
+        },
+        {
+            "id": 3,
+            "title": "Lime Conference",
+            "cover": "https://i.imgur.com/R6mzhaf.jpg",
+            "img": [
+                [
+                    "https://i.imgur.com/9pgiDJ4.jpg",
+                    "Lime Conference 2021"
+                ],
+                [
+                    "https://i.imgur.com/DFJDVa5.jpg",
+                    "Lime Conference 2020"
+                ],
+                [
+                    "https://i.imgur.com/kcL6Uc9.jpg",
+                    "Lime Conference 2020"
+                ],
+                [
+                    "https://i.imgur.com/jcjj0Jv.jpg",
+                    "Lime Conference 2020"
+                ],
+                [
+                    "https://i.imgur.com/z9DxbCK.jpg",
+                    "Lime Conference 2019"
+                ],
+                [
+                    "https://i.imgur.com/19gC0w9.jpg",
+                    "Lime Conference 2019"
+                ]
+            ],
+            "descricao": "Lime Conference in an event that targets the solution of problems through design thinking and problem solving techniques, which motivate creativity and innovation. The main goal is to focus on inscreasingly used methodologies to better develop and smartly use human skills.",
+            "link": "https://www.limeconf.com/",
+            "cliente": " ",
+            "data": "2019 - present"
+        },
+        {
+            "id": 4,
+            "title": "jeK Academy",
             "cover": "https://i.imgur.com/zlBDtUi.jpg",
-            "img":[
-                ["https://i.imgur.com/evp7kZh.jpg","jeK Academy 2021"],
-                ["https://i.imgur.com/zlBDtUi.jpg","jeK Academy 2021"],
-                ["https://i.imgur.com/rn8zXzy.jpg","jeK Academy 2021"],
-                ["https://i.imgur.com/K0yBBva.jpg", "jeK Academy 2021"],
-                ["https://i.imgur.com/i8k3N4T.jpg", "jeK Academy 2019"],
-                ["https://i.imgur.com/fi5rQlH.jpg", "jeK Academy 2019"]
+            "img": [
+                [
+                    "https://i.imgur.com/evp7kZh.jpg",
+                    "jeK Academy 2021"
+                ],
+                [
+                    "https://i.imgur.com/zlBDtUi.jpg",
+                    "jeK Academy 2021"
+                ],
+                [
+                    "https://i.imgur.com/rn8zXzy.jpg",
+                    "jeK Academy 2021"
+                ],
+                [
+                    "https://i.imgur.com/K0yBBva.jpg",
+                    "jeK Academy 2021"
+                ],
+                [
+                    "https://i.imgur.com/i8k3N4T.jpg",
+                    "jeK Academy 2019"
+                ],
+                [
+                    "https://i.imgur.com/fi5rQlH.jpg",
+                    "jeK Academy 2019"
+                ]
             ],
-            "descricao":"jeKnowledge Academy is an event dedicated to High School students where they have the opportunity to learn things like creating their own personal website, developing a game and also learning how to build electronic circuits. All these experiences have several objectives: to make up for the absence of these themes in High school education curricular plans, to show the variety of things that can be built with code and also to help answer the question “What degree do I want to take at the university?”" ,
-            "link":"https://www.instagram.com/jeknowledgeacademy/",
-            "cliente":"",
-            "data":"2017 - present"
+            "descricao": "jeKnowledge Academy is an event dedicated to High School students where they have the opportunity to learn things like creating their own personal website, developing a game and also learning how to build electronic circuits. All these experiences have several objectives: to make up for the absence of these themes in High school education curricular plans, to show the variety of things that can be built with code and also to help answer the question “What degree do I want to take at the university?”",
+            "link": "https://www.instagram.com/jeknowledgeacademy/",
+            "cliente": "",
+            "data": "2017 - present"
         },
-        { 
-            "id":5,
-            "title":".works",
+        {
+            "id": 5,
+            "title": ".works",
             "cover": "https://i.imgur.com/U5qxC7F.jpg",
-            "img":[
-                ["https://i.imgur.com/6IZqmRT.jpg",".works 2021"],
-                ["https://i.imgur.com/U5qxC7F.jpg",".works 2019"],
-                ["https://i.imgur.com/qSZQ0J2.jpg",".works 2019"],
-                ["https://i.imgur.com/9SX7wcE.jpg", ".works 2019"],
-                ["https://i.imgur.com/TbyI7cI.jpg",".works 2018"],
-                ["https://i.imgur.com/EcSW3pC.jpg",".works 2018"]
+            "img": [
+                [
+                    "https://i.imgur.com/6IZqmRT.jpg",
+                    ".works 2021"
+                ],
+                [
+                    "https://i.imgur.com/U5qxC7F.jpg",
+                    ".works 2019"
+                ],
+                [
+                    "https://i.imgur.com/qSZQ0J2.jpg",
+                    ".works 2019"
+                ],
+                [
+                    "https://i.imgur.com/9SX7wcE.jpg",
+                    ".works 2019"
+                ],
+                [
+                    "https://i.imgur.com/TbyI7cI.jpg",
+                    ".works 2018"
+                ],
+                [
+                    "https://i.imgur.com/EcSW3pC.jpg",
+                    ".works 2018"
+                ]
             ],
-            "descricao":"Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better." ,
-            "link":"dotworks@jeknowledge.com",
-            "cliente":"",
-            "data":"2017 - present"
+            "descricao": "Dotworks is an event created by jeKnowledge, that combines many enterprises from different areas, being the most predominant technology. Its goal is to give the opportunity to students from FCTUC to come in contact with real companies. Through start ups and informal interviews, students are one step closer to win an amazing internship of their choice. Knowledge and challenge are big words in this event. The candidates, most of them close to finishing their degrees, can choose their internships based on the company, area, duration and type. Although not everyone is lucky to win an internship, the students already had that ice breaker, the experience of a real work interview, which will most definitely contribute in their future work experiences. But because not everything has to be serious, the last part of dotworks focuses on conviviality and leisure, allowing participants and interviewers to get to know each other better.",
+            "link": "dotworks@jeknowledge.com",
+            "cliente": "",
+            "data": "2017 - present"
         }
-
     ]
 }

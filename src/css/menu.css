@@ -10,8 +10,9 @@ color: var(--lightblue);
     cursor: pointer;
     transition: all .3s ease-in-out;
   }
+ 
 
-  .projects{
+  .projects ul{
     min-width: 90vw;
     column-gap: 10px; 
     display: flex;
@@ -20,28 +21,28 @@ color: var(--lightblue);
     padding-bottom: 2%;
   }
 
-  .projects::-webkit-scrollbar {
+  .projects ul::-webkit-scrollbar {
     height: 5px;
     display: flex;
     justify-content: center;
   }
   
-  .projects::-webkit-scrollbar-track-piece {
+  .projects ul::-webkit-scrollbar-track-piece {
     background: white ;
     text-align: center;
   }
   
-  .projects::-webkit-scrollbar-thumb {
+  .projects ul::-webkit-scrollbar-thumb {
     background: var(--blue);
   }
   
-  .projects::-webkit-scrollbar-button:end:increment {
+  .projects ul::-webkit-scrollbar-button:end:increment {
     width: 20%;
     display: block;
     background: transparent;
   }
   
-  .projects::-webkit-scrollbar-button:start:increment {
+  .projects ul::-webkit-scrollbar-button:start:increment {
     width: 20%;
     display: block;
     background: transparent;
