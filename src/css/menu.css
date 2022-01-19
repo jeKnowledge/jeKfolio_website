@@ -107,8 +107,8 @@ color: var(--lightblue);
       grid-template-columns: 45% 45%;
       grid-gap: 4vh 5vw;
       overflow-x: auto;
-      width:100vw;
-      margin-top: 5%;
+      width:90vw;
+      margin: 5% 0%;
     }
     .project_text{
       max-width: 40vw;
