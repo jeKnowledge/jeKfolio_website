@@ -6,7 +6,7 @@ import linkedin from './img/linkedin.svg';
 import logoHorizontal from './img/icon-title-desc-inv.svg';
 
 const Footer = () => {
-
+    const year = new Date().getFullYear(); 
     return (
         <footer className="footer">
 
@@ -36,7 +36,7 @@ const Footer = () => {
                 <p>geral@jeknowledge.com
             <br />+351 919 818 111
             <br />This website is
-            <br />© jeKnowledge 2021</p>
+            <br />© jeKnowledge {year}</p>
             </div>
 
         </footer>
