@@ -34,7 +34,7 @@ const Footer = () => {
                     <img src={logoHorizontal} id="jek_logo_hor" alt="logo jeK" />
                 </a>
                 <p>geral@jeknowledge.com
-            <br />+351 919 818 111
+            <br />+351 931 874 992
             <br />This website is
             <br />© jeKnowledge {year}</p>
             </div>
